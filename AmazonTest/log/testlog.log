@@ -1,0 +1,1824 @@
+2022-02-16 19:36:41,242 - Amazon Test -INFO - URL is opened
+2022-02-16 19:37:57,179 - Amazon Test -INFO - URL is opened
+2022-02-17 09:18:41,445 - Amazon Test -INFO - URL is opened
+2022-02-17 09:20:49,446 - Amazon Test -INFO - URL is opened
+2022-02-17 09:21:19,760 - Amazon Test -INFO - URL is opened
+2022-02-17 09:31:21,316 - Amazon Test -INFO - URL is opened
+2022-02-17 09:49:12,914 - Amazon Test -INFO - URL is opened
+2022-02-17 09:51:44,162 - Amazon Test -INFO - URL is opened
+2022-02-17 09:53:37,130 - Amazon Test -INFO - URL is opened
+2022-02-17 09:53:38,245 - Amazon Test -INFO - Entered username
+2022-02-17 09:53:38,675 - Amazon Test -INFO - clicked continue button
+2022-02-17 09:53:38,736 - Amazon Test -INFO - Entered Password
+2022-02-17 09:55:04,338 - Amazon Test -INFO - URL is opened
+2022-02-17 09:55:05,443 - Amazon Test -INFO - Entered username
+2022-02-17 09:55:06,456 - Amazon Test -INFO - clicked continue button
+2022-02-17 09:55:06,525 - Amazon Test -INFO - Entered Password
+2022-02-17 09:55:06,595 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 09:56:17,809 - Amazon Test -INFO - URL is opened
+2022-02-17 09:56:19,001 - Amazon Test -INFO - Entered username
+2022-02-17 09:56:19,543 - Amazon Test -INFO - clicked continue button
+2022-02-17 09:56:19,622 - Amazon Test -INFO - Entered Password
+2022-02-17 09:56:19,808 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 09:56:21,873 - Amazon Test -INFO - Test Case Passed
+2022-02-17 09:57:43,568 - Amazon Test -INFO - URL is opened
+2022-02-17 09:58:13,151 - Amazon Test -INFO - URL is opened
+2022-02-17 09:59:05,302 - Amazon Test -INFO - URL is opened
+2022-02-17 09:59:06,427 - Amazon Test -INFO - Entered username
+2022-02-17 09:59:06,988 - Amazon Test -INFO - clicked continue button
+2022-02-17 09:59:07,054 - Amazon Test -INFO - Entered Password
+2022-02-17 09:59:07,135 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 09:59:10,174 - Amazon Test -INFO - Test Case Passed
+2022-02-17 10:35:35,431 - Amazon Test -INFO - URL is opened
+2022-02-17 10:42:44,405 - Amazon Test -INFO - URL is opened
+2022-02-17 10:43:07,423 - Amazon Test -INFO - URL is opened
+2022-02-17 10:46:57,079 - Amazon Test -INFO - URL is opened
+2022-02-17 10:49:09,178 - Amazon Test -INFO - URL is opened
+2022-02-17 10:49:10,475 - Amazon Test -INFO - Entered username
+2022-02-17 10:49:11,374 - Amazon Test -INFO - clicked continue button
+2022-02-17 10:49:11,438 - Amazon Test -INFO - Entered Password
+2022-02-17 10:49:11,514 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 10:49:14,567 - Amazon Test -INFO - Test Case Passed
+2022-02-17 13:21:02,480 - Amazon Test -INFO - URL is opened
+2022-02-17 13:21:03,677 - Amazon Test -INFO - Entered username
+2022-02-17 13:21:04,549 - Amazon Test -INFO - clicked continue button
+2022-02-17 13:21:04,622 - Amazon Test -INFO - Entered Password
+2022-02-17 13:21:04,694 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 13:21:07,765 - Amazon Test -INFO - Test Case Passed
+2022-02-17 13:28:54,309 - Amazon Test -INFO - URL is opened
+2022-02-17 13:28:55,745 - Amazon Test -INFO - Entered username
+2022-02-17 13:28:56,414 - Amazon Test -INFO - clicked continue button
+2022-02-17 13:28:56,477 - Amazon Test -INFO - Entered Password
+2022-02-17 13:28:56,550 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 13:28:59,612 - Amazon Test -INFO - Test Case Passed
+2022-02-17 13:31:42,348 - Amazon Test -INFO - URL is opened
+2022-02-17 13:31:43,647 - Amazon Test -INFO - Entered username
+2022-02-17 13:31:44,308 - Amazon Test -INFO - clicked continue button
+2022-02-17 13:31:44,372 - Amazon Test -INFO - Entered Password
+2022-02-17 13:31:44,446 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 13:31:47,485 - Amazon Test -INFO - Test Case Passed
+2022-02-17 17:20:08,040 - Amazon Test -INFO - URL is opened
+2022-02-17 17:20:09,221 - Amazon Test -INFO - Entered username
+2022-02-17 17:20:09,961 - Amazon Test -INFO - clicked continue button
+2022-02-17 17:20:10,042 - Amazon Test -INFO - Entered Password
+2022-02-17 17:20:10,230 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 17:20:13,262 - Amazon Test -INFO - Test Case Passed
+2022-02-17 17:21:47,250 - Amazon Test -INFO - URL is opened
+2022-02-17 17:21:48,478 - Amazon Test -INFO - Entered username
+2022-02-17 17:21:49,592 - Amazon Test -INFO - clicked continue button
+2022-02-17 17:21:49,670 - Amazon Test -INFO - Entered Password
+2022-02-17 17:21:49,741 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 17:21:52,773 - Amazon Test -INFO - Test Case Passed
+2022-02-17 17:26:27,758 - Amazon Test -INFO - URL is opened
+2022-02-17 17:26:29,143 - Amazon Test -INFO - Entered username
+2022-02-17 17:26:29,919 - Amazon Test -INFO - clicked continue button
+2022-02-17 17:26:30,126 - Amazon Test -INFO - Entered Password
+2022-02-17 17:26:30,196 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 17:26:33,235 - Amazon Test -INFO - Test Case Passed
+2022-02-17 17:29:58,462 - Amazon Test -INFO - URL is opened
+2022-02-17 17:29:59,747 - Amazon Test -INFO - Entered username
+2022-02-17 17:30:00,372 - Amazon Test -INFO - clicked continue button
+2022-02-17 17:30:00,442 - Amazon Test -INFO - Entered Password
+2022-02-17 17:30:00,522 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 17:30:03,542 - Amazon Test -INFO - Test Case Passed
+2022-02-17 17:32:19,278 - Amazon Test -INFO - URL is opened
+2022-02-17 17:32:20,567 - Amazon Test -INFO - Entered username
+2022-02-17 17:32:21,141 - Amazon Test -INFO - clicked continue button
+2022-02-17 17:32:21,218 - Amazon Test -INFO - Entered Password
+2022-02-17 17:32:21,301 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 17:32:24,334 - Amazon Test -INFO - Test Case Passed
+2022-02-17 17:33:35,460 - Amazon Test -INFO - URL is opened
+2022-02-17 17:33:36,694 - Amazon Test -INFO - Entered username
+2022-02-17 17:33:37,498 - Amazon Test -INFO - clicked continue button
+2022-02-17 17:33:37,728 - Amazon Test -INFO - Entered Password
+2022-02-17 17:33:37,805 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 17:33:40,858 - Amazon Test -INFO - Test Case Passed
+2022-02-17 17:35:24,142 - Amazon Test -INFO - URL is opened
+2022-02-17 17:35:25,848 - Amazon Test -INFO - Entered username
+2022-02-17 17:35:26,555 - Amazon Test -INFO - clicked continue button
+2022-02-17 17:35:26,645 - Amazon Test -INFO - Entered Password
+2022-02-17 17:35:26,719 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 17:35:29,737 - Amazon Test -INFO - Test Case Passed
+2022-02-17 17:36:55,055 - Amazon Test -INFO - URL is opened
+2022-02-17 17:36:56,375 - Amazon Test -INFO - Entered username
+2022-02-17 17:36:56,856 - Amazon Test -INFO - clicked continue button
+2022-02-17 17:36:56,935 - Amazon Test -INFO - Entered Password
+2022-02-17 17:36:57,005 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 17:37:00,045 - Amazon Test -INFO - Test Case Passed
+2022-02-17 17:46:03,690 - Amazon Test -INFO - URL is opened
+2022-02-17 17:46:04,869 - Amazon Test -INFO - Entered username
+2022-02-17 17:46:05,522 - Amazon Test -INFO - clicked continue button
+2022-02-17 17:46:05,579 - Amazon Test -INFO - Entered Password
+2022-02-17 17:46:05,664 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 17:46:08,689 - Amazon Test -INFO - Test Case Passed
+2022-02-17 17:47:41,213 - Amazon Test -INFO - URL is opened
+2022-02-17 17:47:42,428 - Amazon Test -INFO - Entered username
+2022-02-17 17:47:43,018 - Amazon Test -INFO - clicked continue button
+2022-02-17 17:47:43,092 - Amazon Test -INFO - Entered Password
+2022-02-17 17:47:43,176 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 17:47:46,196 - Amazon Test -INFO - Test Case Passed
+2022-02-17 17:49:40,832 - Amazon Test -INFO - URL is opened
+2022-02-17 17:49:42,118 - Amazon Test -INFO - Entered username
+2022-02-17 17:49:42,598 - Amazon Test -INFO - clicked continue button
+2022-02-17 17:49:42,696 - Amazon Test -INFO - Entered Password
+2022-02-17 17:49:42,758 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 17:49:45,820 - Amazon Test -INFO - Test Case Passed
+2022-02-17 17:53:49,401 - Amazon Test -INFO - URL is opened
+2022-02-17 17:53:50,646 - Amazon Test -INFO - Entered username
+2022-02-17 17:53:51,130 - Amazon Test -INFO - clicked continue button
+2022-02-17 17:53:51,198 - Amazon Test -INFO - Entered Password
+2022-02-17 17:53:51,272 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 17:53:54,335 - Amazon Test -INFO - Test Case Passed
+2022-02-17 17:56:48,967 - Amazon Test -INFO - URL is opened
+2022-02-17 17:56:50,207 - Amazon Test -INFO - Entered username
+2022-02-17 17:56:51,036 - Amazon Test -INFO - clicked continue button
+2022-02-17 17:56:51,097 - Amazon Test -INFO - Entered Password
+2022-02-17 17:56:51,172 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 17:56:54,196 - Amazon Test -INFO - Test Case Passed
+2022-02-17 17:59:22,302 - Amazon Test -INFO - URL is opened
+2022-02-17 17:59:23,496 - Amazon Test -INFO - Entered username
+2022-02-17 17:59:24,102 - Amazon Test -INFO - clicked continue button
+2022-02-17 17:59:24,175 - Amazon Test -INFO - Entered Password
+2022-02-17 17:59:24,243 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 17:59:27,274 - Amazon Test -INFO - Test Case Passed
+2022-02-17 18:01:47,607 - Amazon Test -INFO - URL is opened
+2022-02-17 18:01:48,844 - Amazon Test -INFO - Entered username
+2022-02-17 18:01:49,524 - Amazon Test -INFO - clicked continue button
+2022-02-17 18:01:49,619 - Amazon Test -INFO - Entered Password
+2022-02-17 18:01:49,684 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 18:01:52,705 - Amazon Test -INFO - Test Case Passed
+2022-02-17 18:30:52,361 - Amazon Test -INFO - URL is opened
+2022-02-17 18:30:53,496 - Amazon Test -INFO - Entered username
+2022-02-17 18:30:54,277 - Amazon Test -INFO - clicked continue button
+2022-02-17 18:30:54,343 - Amazon Test -INFO - Entered Password
+2022-02-17 18:30:54,416 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 18:30:57,434 - Amazon Test -INFO - Test Case Passed
+2022-02-17 18:38:51,257 - Amazon Test -INFO - URL is opened
+2022-02-17 18:38:52,691 - Amazon Test -INFO - Entered username
+2022-02-17 18:38:53,421 - Amazon Test -INFO - clicked continue button
+2022-02-17 18:38:53,494 - Amazon Test -INFO - Entered Password
+2022-02-17 18:38:53,562 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 18:38:56,595 - Amazon Test -INFO - Test Case Passed
+2022-02-17 18:42:17,330 - Amazon Test -INFO - URL is opened
+2022-02-17 18:42:18,513 - Amazon Test -INFO - Entered username
+2022-02-17 18:42:19,359 - Amazon Test -INFO - clicked continue button
+2022-02-17 18:42:19,453 - Amazon Test -INFO - Entered Password
+2022-02-17 18:42:19,592 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 18:45:55,829 - Amazon Test -INFO - URL is opened
+2022-02-17 18:45:57,041 - Amazon Test -INFO - Entered username
+2022-02-17 18:45:57,880 - Amazon Test -INFO - clicked continue button
+2022-02-17 18:45:57,952 - Amazon Test -INFO - Entered Password
+2022-02-17 18:45:58,030 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 18:48:04,687 - Amazon Test -INFO - URL is opened
+2022-02-17 18:48:06,057 - Amazon Test -INFO - Entered username
+2022-02-17 18:48:06,701 - Amazon Test -INFO - clicked continue button
+2022-02-17 18:48:06,778 - Amazon Test -INFO - Entered Password
+2022-02-17 18:48:06,857 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 18:54:57,474 - Amazon Test -INFO - URL is opened
+2022-02-17 18:54:58,782 - Amazon Test -INFO - Entered username
+2022-02-17 18:54:59,230 - Amazon Test -INFO - clicked continue button
+2022-02-17 18:54:59,292 - Amazon Test -INFO - Entered Password
+2022-02-17 18:54:59,381 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 19:23:27,048 - Amazon Test -INFO - URL is opened
+2022-02-17 19:23:28,447 - Amazon Test -INFO - Entered username
+2022-02-17 19:23:29,222 - Amazon Test -INFO - clicked continue button
+2022-02-17 19:23:29,297 - Amazon Test -INFO - Entered Password
+2022-02-17 19:23:29,364 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 19:23:50,318 - Amazon Test -INFO - testcase failed
+2022-02-17 19:23:50,319 - Amazon Test -INFO - testcase failed
+2022-02-17 19:27:24,573 - Amazon Test -INFO - URL is opened
+2022-02-17 19:27:26,105 - Amazon Test -INFO - Entered username
+2022-02-17 19:27:26,817 - Amazon Test -INFO - clicked continue button
+2022-02-17 19:27:26,922 - Amazon Test -INFO - Entered Password
+2022-02-17 19:27:26,986 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 19:27:48,510 - Amazon Test -INFO - Test Case Passed
+2022-02-17 19:27:48,511 - Amazon Test -INFO - Test Case Passed
+2022-02-17 19:31:35,325 - Amazon Test -INFO - URL is opened
+2022-02-17 19:31:36,505 - Amazon Test -INFO - Entered username
+2022-02-17 19:31:37,788 - Amazon Test -INFO - clicked continue button
+2022-02-17 19:31:37,857 - Amazon Test -INFO - Entered Password
+2022-02-17 19:31:38,022 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 19:31:59,742 - Amazon Test -INFO - Test Passed
+2022-02-17 20:02:10,126 - Amazon Test -INFO - URL is opened
+2022-02-17 20:02:11,386 - Amazon Test -INFO - Entered username
+2022-02-17 20:02:12,010 - Amazon Test -INFO - clicked continue button
+2022-02-17 20:02:12,083 - Amazon Test -INFO - Entered Password
+2022-02-17 20:02:12,166 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 20:08:41,298 - Amazon Test -INFO - URL is opened
+2022-02-17 20:08:42,823 - Amazon Test -INFO - Entered username
+2022-02-17 20:08:43,434 - Amazon Test -INFO - clicked continue button
+2022-02-17 20:08:43,507 - Amazon Test -INFO - Entered Password
+2022-02-17 20:08:43,585 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 20:32:20,843 - Amazon Test -INFO - URL is opened
+2022-02-17 20:32:22,147 - Amazon Test -INFO - Entered username
+2022-02-17 20:32:22,827 - Amazon Test -INFO - clicked continue button
+2022-02-17 20:32:22,938 - Amazon Test -INFO - Entered Password
+2022-02-17 20:32:23,006 - Amazon Test -INFO - Clicked Submit button
+2022-02-17 20:34:53,578 - Amazon Test -INFO - URL is opened
+2022-02-17 20:34:54,740 - Amazon Test -INFO - Entered username
+2022-02-17 20:34:55,675 - Amazon Test -INFO - clicked continue button
+2022-02-17 20:34:55,744 - Amazon Test -INFO - Entered Password
+2022-02-17 20:34:55,845 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 10:14:44,405 - Amazon Test -INFO - URL is opened
+2022-02-18 10:14:45,859 - Amazon Test -INFO - Entered username
+2022-02-18 10:14:46,482 - Amazon Test -INFO - clicked continue button
+2022-02-18 10:14:46,540 - Amazon Test -INFO - Entered Password
+2022-02-18 10:14:46,609 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 10:17:40,758 - Amazon Test -INFO - URL is opened
+2022-02-18 10:17:41,948 - Amazon Test -INFO - Entered username
+2022-02-18 10:17:42,554 - Amazon Test -INFO - clicked continue button
+2022-02-18 10:17:42,620 - Amazon Test -INFO - Entered Password
+2022-02-18 10:17:42,695 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 10:21:23,415 - Amazon Test -INFO - URL is opened
+2022-02-18 10:21:25,229 - Amazon Test -INFO - Entered username
+2022-02-18 10:21:25,965 - Amazon Test -INFO - clicked continue button
+2022-02-18 10:21:26,032 - Amazon Test -INFO - Entered Password
+2022-02-18 10:21:26,099 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 10:23:43,122 - Amazon Test -INFO - URL is opened
+2022-02-18 10:23:44,814 - Amazon Test -INFO - Entered username
+2022-02-18 10:23:45,469 - Amazon Test -INFO - clicked continue button
+2022-02-18 10:23:45,534 - Amazon Test -INFO - Entered Password
+2022-02-18 10:23:45,599 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 10:25:30,054 - Amazon Test -INFO - URL is opened
+2022-02-18 10:25:31,390 - Amazon Test -INFO - Entered username
+2022-02-18 10:25:32,073 - Amazon Test -INFO - clicked continue button
+2022-02-18 10:25:32,139 - Amazon Test -INFO - Entered Password
+2022-02-18 10:25:32,357 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 10:26:59,079 - Amazon Test -INFO - URL is opened
+2022-02-18 10:27:00,707 - Amazon Test -INFO - Entered username
+2022-02-18 10:27:01,310 - Amazon Test -INFO - clicked continue button
+2022-02-18 10:27:01,387 - Amazon Test -INFO - Entered Password
+2022-02-18 10:27:01,467 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 10:29:41,549 - Amazon Test -INFO - URL is opened
+2022-02-18 10:29:42,981 - Amazon Test -INFO - Entered username
+2022-02-18 10:29:43,616 - Amazon Test -INFO - clicked continue button
+2022-02-18 10:29:43,679 - Amazon Test -INFO - Entered Password
+2022-02-18 10:29:43,760 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 10:32:03,270 - Amazon Test -INFO - URL is opened
+2022-02-18 10:32:04,694 - Amazon Test -INFO - Entered username
+2022-02-18 10:32:05,236 - Amazon Test -INFO - clicked continue button
+2022-02-18 10:32:05,297 - Amazon Test -INFO - Entered Password
+2022-02-18 10:32:05,367 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 10:54:45,238 - Amazon Test -INFO - URL is opened
+2022-02-18 10:54:46,650 - Amazon Test -INFO - Entered username
+2022-02-18 10:54:47,116 - Amazon Test -INFO - clicked continue button
+2022-02-18 10:54:47,191 - Amazon Test -INFO - Entered Password
+2022-02-18 10:54:47,270 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 10:55:44,996 - Amazon Test -INFO - URL is opened
+2022-02-18 10:55:46,567 - Amazon Test -INFO - Entered username
+2022-02-18 10:55:47,083 - Amazon Test -INFO - clicked continue button
+2022-02-18 10:55:47,157 - Amazon Test -INFO - Entered Password
+2022-02-18 10:55:47,241 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 10:57:19,300 - Amazon Test -INFO - URL is opened
+2022-02-18 10:57:20,665 - Amazon Test -INFO - Entered username
+2022-02-18 10:57:21,413 - Amazon Test -INFO - clicked continue button
+2022-02-18 10:57:21,479 - Amazon Test -INFO - Entered Password
+2022-02-18 10:57:21,565 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 11:02:50,589 - Amazon Test -INFO - URL is opened
+2022-02-18 11:02:52,229 - Amazon Test -INFO - Entered username
+2022-02-18 11:02:53,160 - Amazon Test -INFO - clicked continue button
+2022-02-18 11:02:53,230 - Amazon Test -INFO - Entered Password
+2022-02-18 11:02:53,295 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 11:08:30,478 - Amazon Test -INFO - URL is opened
+2022-02-18 11:08:31,720 - Amazon Test -INFO - Entered username
+2022-02-18 11:08:32,323 - Amazon Test -INFO - clicked continue button
+2022-02-18 11:08:32,386 - Amazon Test -INFO - Entered Password
+2022-02-18 11:08:32,462 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 11:10:58,259 - Amazon Test -INFO - URL is opened
+2022-02-18 11:10:59,503 - Amazon Test -INFO - Entered username
+2022-02-18 11:11:00,188 - Amazon Test -INFO - clicked continue button
+2022-02-18 11:11:00,273 - Amazon Test -INFO - Entered Password
+2022-02-18 11:11:00,460 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 11:12:43,128 - Amazon Test -INFO - URL is opened
+2022-02-18 11:12:44,613 - Amazon Test -INFO - Entered username
+2022-02-18 11:12:45,070 - Amazon Test -INFO - clicked continue button
+2022-02-18 11:12:45,143 - Amazon Test -INFO - Entered Password
+2022-02-18 11:12:45,223 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 11:55:45,651 - Amazon Test -INFO - URL is opened
+2022-02-18 11:55:46,988 - Amazon Test -INFO - Entered username
+2022-02-18 11:55:47,695 - Amazon Test -INFO - clicked continue button
+2022-02-18 11:55:47,761 - Amazon Test -INFO - Entered Password
+2022-02-18 11:55:47,844 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 12:01:00,023 - Amazon Test -INFO - URL is opened
+2022-02-18 12:01:01,313 - Amazon Test -INFO - Entered username
+2022-02-18 12:01:01,756 - Amazon Test -INFO - clicked continue button
+2022-02-18 12:01:01,823 - Amazon Test -INFO - Entered Password
+2022-02-18 12:01:01,887 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 12:01:08,051 - Amazon Test -INFO - Test Failed
+2022-02-18 12:01:08,051 - Amazon Test -INFO - Test Failed
+2022-02-18 12:01:08,052 - Amazon Test -INFO - Test Failed
+2022-02-18 12:01:08,052 - Amazon Test -INFO - Test Failed
+2022-02-18 12:01:08,052 - Amazon Test -INFO - Test Failed
+2022-02-18 12:01:08,052 - Amazon Test -INFO - Test Failed
+2022-02-18 12:01:08,053 - Amazon Test -INFO - Test Failed
+2022-02-18 12:01:08,053 - Amazon Test -INFO - Test Failed
+2022-02-18 12:01:08,053 - Amazon Test -INFO - Test Failed
+2022-02-18 12:01:08,054 - Amazon Test -INFO - Test Failed
+2022-02-18 12:02:47,061 - Amazon Test -INFO - URL is opened
+2022-02-18 12:02:48,176 - Amazon Test -INFO - Entered username
+2022-02-18 12:02:48,847 - Amazon Test -INFO - clicked continue button
+2022-02-18 12:02:48,915 - Amazon Test -INFO - Entered Password
+2022-02-18 12:02:48,993 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 12:02:55,134 - Amazon Test -INFO - Test Failed
+2022-02-18 12:02:55,134 - Amazon Test -INFO - Test Failed
+2022-02-18 12:02:55,135 - Amazon Test -INFO - Test Failed
+2022-02-18 12:02:55,135 - Amazon Test -INFO - Test Failed
+2022-02-18 12:02:55,135 - Amazon Test -INFO - Test Failed
+2022-02-18 12:02:55,135 - Amazon Test -INFO - Test Failed
+2022-02-18 12:02:55,135 - Amazon Test -INFO - Test Failed
+2022-02-18 12:02:55,136 - Amazon Test -INFO - Test Failed
+2022-02-18 12:02:55,136 - Amazon Test -INFO - Test Failed
+2022-02-18 12:02:55,136 - Amazon Test -INFO - Test Failed
+2022-02-18 12:05:45,316 - Amazon Test -INFO - URL is opened
+2022-02-18 12:05:46,543 - Amazon Test -INFO - Entered username
+2022-02-18 12:05:47,301 - Amazon Test -INFO - clicked continue button
+2022-02-18 12:05:47,382 - Amazon Test -INFO - Entered Password
+2022-02-18 12:05:47,444 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 12:07:56,549 - Amazon Test -INFO - URL is opened
+2022-02-18 12:07:57,702 - Amazon Test -INFO - Entered username
+2022-02-18 12:07:58,454 - Amazon Test -INFO - clicked continue button
+2022-02-18 12:07:58,525 - Amazon Test -INFO - Entered Password
+2022-02-18 12:08:00,450 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 12:08:07,685 - Amazon Test -INFO - Test Failed
+2022-02-18 12:09:16,263 - Amazon Test -INFO - URL is opened
+2022-02-18 12:09:17,490 - Amazon Test -INFO - Entered username
+2022-02-18 12:09:17,955 - Amazon Test -INFO - clicked continue button
+2022-02-18 12:09:18,019 - Amazon Test -INFO - Entered Password
+2022-02-18 12:09:18,091 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 12:09:24,920 - Amazon Test -INFO - Test Failed
+2022-02-18 12:11:18,578 - Amazon Test -INFO - URL is opened
+2022-02-18 12:11:19,925 - Amazon Test -INFO - Entered username
+2022-02-18 12:11:20,492 - Amazon Test -INFO - clicked continue button
+2022-02-18 12:11:20,556 - Amazon Test -INFO - Entered Password
+2022-02-18 12:11:20,640 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 12:11:26,761 - Amazon Test -INFO - Test Failed
+2022-02-18 12:13:18,920 - Amazon Test -INFO - URL is opened
+2022-02-18 12:13:20,163 - Amazon Test -INFO - Entered username
+2022-02-18 12:13:20,767 - Amazon Test -INFO - clicked continue button
+2022-02-18 12:13:20,830 - Amazon Test -INFO - Entered Password
+2022-02-18 12:13:20,893 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 12:13:26,777 - Amazon Test -INFO - Test Failed
+2022-02-18 12:16:31,138 - Amazon Test -INFO - URL is opened
+2022-02-18 12:16:32,393 - Amazon Test -INFO - Entered username
+2022-02-18 12:16:32,994 - Amazon Test -INFO - clicked continue button
+2022-02-18 12:16:33,058 - Amazon Test -INFO - Entered Password
+2022-02-18 12:16:33,135 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 12:18:25,778 - Amazon Test -INFO - URL is opened
+2022-02-18 12:18:26,997 - Amazon Test -INFO - Entered username
+2022-02-18 12:18:27,884 - Amazon Test -INFO - clicked continue button
+2022-02-18 12:18:27,946 - Amazon Test -INFO - Entered Password
+2022-02-18 12:18:28,033 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 12:18:34,465 - Amazon Test -INFO - Test Failed
+2022-02-18 12:24:19,858 - Amazon Test -INFO - URL is opened
+2022-02-18 12:24:21,080 - Amazon Test -INFO - Entered username
+2022-02-18 12:24:21,547 - Amazon Test -INFO - clicked continue button
+2022-02-18 12:24:21,623 - Amazon Test -INFO - Entered Password
+2022-02-18 12:24:21,700 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 12:24:28,082 - Amazon Test -INFO - Test Failed
+2022-02-18 12:26:26,182 - Amazon Test -INFO - URL is opened
+2022-02-18 12:26:27,621 - Amazon Test -INFO - Entered username
+2022-02-18 12:26:28,078 - Amazon Test -INFO - clicked continue button
+2022-02-18 12:26:28,149 - Amazon Test -INFO - Entered Password
+2022-02-18 12:26:28,220 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 12:26:34,417 - Amazon Test -INFO - Test Failed
+2022-02-18 12:28:38,594 - Amazon Test -INFO - URL is opened
+2022-02-18 12:28:39,713 - Amazon Test -INFO - Entered username
+2022-02-18 12:28:40,482 - Amazon Test -INFO - clicked continue button
+2022-02-18 12:28:40,547 - Amazon Test -INFO - Entered Password
+2022-02-18 12:28:40,611 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 12:31:25,904 - Amazon Test -INFO - URL is opened
+2022-02-18 12:31:27,144 - Amazon Test -INFO - Entered username
+2022-02-18 12:31:27,727 - Amazon Test -INFO - clicked continue button
+2022-02-18 12:31:27,793 - Amazon Test -INFO - Entered Password
+2022-02-18 12:31:27,869 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 12:32:26,727 - Amazon Test -INFO - URL is opened
+2022-02-18 12:32:27,960 - Amazon Test -INFO - Entered username
+2022-02-18 12:32:28,651 - Amazon Test -INFO - clicked continue button
+2022-02-18 12:32:28,713 - Amazon Test -INFO - Entered Password
+2022-02-18 12:32:28,781 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 12:32:37,035 - Amazon Test -INFO - Test Passed
+2022-02-18 13:11:13,967 - Amazon Test -INFO - URL is opened
+2022-02-18 13:11:15,182 - Amazon Test -INFO - Entered username
+2022-02-18 13:11:16,032 - Amazon Test -INFO - clicked continue button
+2022-02-18 13:11:16,119 - Amazon Test -INFO - Entered Password
+2022-02-18 13:11:16,184 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 13:14:40,778 - Amazon Test -INFO - URL is opened
+2022-02-18 13:14:41,796 - Amazon Test -INFO - Entered username
+2022-02-18 13:14:42,282 - Amazon Test -INFO - clicked continue button
+2022-02-18 13:14:42,343 - Amazon Test -INFO - Entered Password
+2022-02-18 13:14:42,556 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 13:19:39,140 - Amazon Test -INFO - URL is opened
+2022-02-18 13:19:40,112 - Amazon Test -INFO - Entered username
+2022-02-18 13:19:40,574 - Amazon Test -INFO - clicked continue button
+2022-02-18 13:19:40,641 - Amazon Test -INFO - Entered Password
+2022-02-18 13:19:40,721 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 13:22:21,098 - Amazon Test -INFO - URL is opened
+2022-02-18 13:22:22,431 - Amazon Test -INFO - Entered username
+2022-02-18 13:22:23,312 - Amazon Test -INFO - clicked continue button
+2022-02-18 13:22:23,373 - Amazon Test -INFO - Entered Password
+2022-02-18 13:22:23,451 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 13:24:15,130 - Amazon Test -INFO - URL is opened
+2022-02-18 13:24:16,343 - Amazon Test -INFO - Entered username
+2022-02-18 13:24:17,245 - Amazon Test -INFO - clicked continue button
+2022-02-18 13:24:17,346 - Amazon Test -INFO - Entered Password
+2022-02-18 13:24:17,438 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 13:25:04,323 - Amazon Test -INFO - URL is opened
+2022-02-18 13:25:05,589 - Amazon Test -INFO - Entered username
+2022-02-18 13:25:06,343 - Amazon Test -INFO - clicked continue button
+2022-02-18 13:25:06,546 - Amazon Test -INFO - Entered Password
+2022-02-18 13:25:06,619 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 13:26:48,909 - Amazon Test -INFO - URL is opened
+2022-02-18 13:26:50,271 - Amazon Test -INFO - Entered username
+2022-02-18 13:26:50,922 - Amazon Test -INFO - clicked continue button
+2022-02-18 13:26:50,996 - Amazon Test -INFO - Entered Password
+2022-02-18 13:26:51,072 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 13:28:00,452 - Amazon Test -INFO - URL is opened
+2022-02-18 13:28:01,518 - Amazon Test -INFO - Entered username
+2022-02-18 13:28:02,417 - Amazon Test -INFO - clicked continue button
+2022-02-18 13:28:02,482 - Amazon Test -INFO - Entered Password
+2022-02-18 13:28:02,550 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 19:05:41,504 - Amazon Test -INFO - URL is opened
+2022-02-18 19:05:43,092 - Amazon Test -INFO - Entered username
+2022-02-18 19:05:43,778 - Amazon Test -INFO - clicked continue button
+2022-02-18 19:05:43,846 - Amazon Test -INFO - Entered Password
+2022-02-18 19:05:43,925 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 19:05:53,269 - Amazon Test -INFO - Test Passed
+2022-02-18 19:19:32,758 - Amazon Test -INFO - URL is opened
+2022-02-18 19:19:34,098 - Amazon Test -INFO - Entered username
+2022-02-18 19:19:34,813 - Amazon Test -INFO - clicked continue button
+2022-02-18 19:19:34,886 - Amazon Test -INFO - Entered Password
+2022-02-18 19:19:34,965 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 19:23:30,075 - Amazon Test -INFO - URL is opened
+2022-02-18 19:23:31,176 - Amazon Test -INFO - Entered username
+2022-02-18 19:23:31,639 - Amazon Test -INFO - clicked continue button
+2022-02-18 19:23:31,706 - Amazon Test -INFO - Entered Password
+2022-02-18 19:23:33,716 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 19:28:41,142 - Amazon Test -INFO - URL is opened
+2022-02-18 19:28:42,493 - Amazon Test -INFO - Entered username
+2022-02-18 19:28:43,243 - Amazon Test -INFO - clicked continue button
+2022-02-18 19:28:43,312 - Amazon Test -INFO - Entered Password
+2022-02-18 19:28:43,392 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 19:32:39,436 - Amazon Test -INFO - URL is opened
+2022-02-18 19:32:40,665 - Amazon Test -INFO - Entered username
+2022-02-18 19:32:41,448 - Amazon Test -INFO - clicked continue button
+2022-02-18 19:32:41,518 - Amazon Test -INFO - Entered Password
+2022-02-18 19:32:41,592 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 19:41:01,027 - Amazon Test -INFO - URL is opened
+2022-02-18 19:41:02,165 - Amazon Test -INFO - Entered username
+2022-02-18 19:41:02,670 - Amazon Test -INFO - clicked continue button
+2022-02-18 19:41:02,735 - Amazon Test -INFO - Entered Password
+2022-02-18 19:41:02,799 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 19:41:55,990 - Amazon Test -INFO - URL is opened
+2022-02-18 19:41:57,275 - Amazon Test -INFO - Entered username
+2022-02-18 19:41:57,889 - Amazon Test -INFO - clicked continue button
+2022-02-18 19:41:57,959 - Amazon Test -INFO - Entered Password
+2022-02-18 19:41:58,046 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 19:42:53,856 - Amazon Test -INFO - URL is opened
+2022-02-18 19:42:55,253 - Amazon Test -INFO - Entered username
+2022-02-18 19:42:56,128 - Amazon Test -INFO - clicked continue button
+2022-02-18 19:42:56,192 - Amazon Test -INFO - Entered Password
+2022-02-18 19:42:56,281 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 19:46:35,965 - Amazon Test -INFO - URL is opened
+2022-02-18 19:46:37,407 - Amazon Test -INFO - Entered username
+2022-02-18 19:46:38,095 - Amazon Test -INFO - clicked continue button
+2022-02-18 19:46:38,169 - Amazon Test -INFO - Entered Password
+2022-02-18 19:46:38,255 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 19:47:35,508 - Amazon Test -INFO - URL is opened
+2022-02-18 19:47:36,765 - Amazon Test -INFO - Entered username
+2022-02-18 19:47:37,460 - Amazon Test -INFO - clicked continue button
+2022-02-18 19:47:37,550 - Amazon Test -INFO - Entered Password
+2022-02-18 19:47:37,659 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 19:49:01,031 - Amazon Test -INFO - URL is opened
+2022-02-18 19:49:02,187 - Amazon Test -INFO - Entered username
+2022-02-18 19:49:02,864 - Amazon Test -INFO - clicked continue button
+2022-02-18 19:49:02,953 - Amazon Test -INFO - Entered Password
+2022-02-18 19:49:03,019 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 20:02:07,007 - Amazon Test -INFO - URL is opened
+2022-02-18 20:02:08,265 - Amazon Test -INFO - Entered username
+2022-02-18 20:02:08,948 - Amazon Test -INFO - clicked continue button
+2022-02-18 20:02:09,009 - Amazon Test -INFO - Entered Password
+2022-02-18 20:02:09,077 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 20:03:06,737 - Amazon Test -INFO - URL is opened
+2022-02-18 20:03:07,868 - Amazon Test -INFO - Entered username
+2022-02-18 20:03:08,355 - Amazon Test -INFO - clicked continue button
+2022-02-18 20:03:08,556 - Amazon Test -INFO - Entered Password
+2022-02-18 20:03:08,624 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 20:07:30,529 - Amazon Test -INFO - URL is opened
+2022-02-18 20:07:32,252 - Amazon Test -INFO - Entered username
+2022-02-18 20:07:33,012 - Amazon Test -INFO - clicked continue button
+2022-02-18 20:07:33,099 - Amazon Test -INFO - Entered Password
+2022-02-18 20:07:33,202 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 20:09:32,165 - Amazon Test -INFO - URL is opened
+2022-02-18 20:09:33,286 - Amazon Test -INFO - Entered username
+2022-02-18 20:09:33,790 - Amazon Test -INFO - clicked continue button
+2022-02-18 20:09:33,866 - Amazon Test -INFO - Entered Password
+2022-02-18 20:09:33,932 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 20:12:35,666 - Amazon Test -INFO - URL is opened
+2022-02-18 20:12:37,308 - Amazon Test -INFO - Entered username
+2022-02-18 20:12:38,031 - Amazon Test -INFO - clicked continue button
+2022-02-18 20:12:38,132 - Amazon Test -INFO - Entered Password
+2022-02-18 20:12:38,219 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 20:13:31,488 - Amazon Test -INFO - URL is opened
+2022-02-18 20:13:32,726 - Amazon Test -INFO - Entered username
+2022-02-18 20:13:33,164 - Amazon Test -INFO - clicked continue button
+2022-02-18 20:13:33,227 - Amazon Test -INFO - Entered Password
+2022-02-18 20:13:33,306 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 20:15:58,036 - Amazon Test -INFO - URL is opened
+2022-02-18 20:15:59,121 - Amazon Test -INFO - Entered username
+2022-02-18 20:15:59,754 - Amazon Test -INFO - clicked continue button
+2022-02-18 20:15:59,817 - Amazon Test -INFO - Entered Password
+2022-02-18 20:15:59,902 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 20:16:53,985 - Amazon Test -INFO - URL is opened
+2022-02-18 20:16:55,416 - Amazon Test -INFO - Entered username
+2022-02-18 20:16:56,106 - Amazon Test -INFO - clicked continue button
+2022-02-18 20:16:56,176 - Amazon Test -INFO - Entered Password
+2022-02-18 20:16:56,252 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 20:19:20,414 - Amazon Test -INFO - URL is opened
+2022-02-18 20:19:21,730 - Amazon Test -INFO - Entered username
+2022-02-18 20:19:22,253 - Amazon Test -INFO - clicked continue button
+2022-02-18 20:19:22,315 - Amazon Test -INFO - Entered Password
+2022-02-18 20:19:22,389 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 20:19:34,209 - Amazon Test -INFO - Test Passed
+2022-02-18 20:20:27,046 - Amazon Test -INFO - URL is opened
+2022-02-18 20:20:28,091 - Amazon Test -INFO - Entered username
+2022-02-18 20:20:28,686 - Amazon Test -INFO - clicked continue button
+2022-02-18 20:20:28,752 - Amazon Test -INFO - Entered Password
+2022-02-18 20:20:28,838 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 20:20:41,210 - Amazon Test -INFO - Test Passed
+2022-02-18 20:27:20,481 - Amazon Test -INFO - URL is opened
+2022-02-18 20:27:21,693 - Amazon Test -INFO - Entered username
+2022-02-18 20:27:22,290 - Amazon Test -INFO - clicked continue button
+2022-02-18 20:27:22,359 - Amazon Test -INFO - Entered Password
+2022-02-18 20:27:22,435 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 20:28:11,937 - Amazon Test -INFO - URL is opened
+2022-02-18 20:28:13,083 - Amazon Test -INFO - Entered username
+2022-02-18 20:28:13,991 - Amazon Test -INFO - clicked continue button
+2022-02-18 20:28:14,066 - Amazon Test -INFO - Entered Password
+2022-02-18 20:28:14,134 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 20:31:46,381 - Amazon Test -INFO - URL is opened
+2022-02-18 20:31:47,701 - Amazon Test -INFO - Entered username
+2022-02-18 20:31:48,287 - Amazon Test -INFO - clicked continue button
+2022-02-18 20:31:48,349 - Amazon Test -INFO - Entered Password
+2022-02-18 20:31:48,422 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 20:34:33,177 - Amazon Test -INFO - URL is opened
+2022-02-18 20:34:34,429 - Amazon Test -INFO - Entered username
+2022-02-18 20:34:34,967 - Amazon Test -INFO - clicked continue button
+2022-02-18 20:34:35,041 - Amazon Test -INFO - Entered Password
+2022-02-18 20:34:35,113 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 20:38:55,625 - Amazon Test -INFO - URL is opened
+2022-02-18 20:38:56,823 - Amazon Test -INFO - Entered username
+2022-02-18 20:38:57,408 - Amazon Test -INFO - clicked continue button
+2022-02-18 20:38:57,580 - Amazon Test -INFO - Entered Password
+2022-02-18 20:38:57,679 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 20:41:20,833 - Amazon Test -INFO - URL is opened
+2022-02-18 20:41:21,951 - Amazon Test -INFO - Entered username
+2022-02-18 20:41:22,423 - Amazon Test -INFO - clicked continue button
+2022-02-18 20:41:22,489 - Amazon Test -INFO - Entered Password
+2022-02-18 20:41:22,557 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 20:43:05,397 - Amazon Test -INFO - URL is opened
+2022-02-18 20:43:06,571 - Amazon Test -INFO - Entered username
+2022-02-18 20:43:07,045 - Amazon Test -INFO - clicked continue button
+2022-02-18 20:43:07,112 - Amazon Test -INFO - Entered Password
+2022-02-18 20:43:07,196 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 20:45:09,638 - Amazon Test -INFO - URL is opened
+2022-02-18 20:45:10,886 - Amazon Test -INFO - Entered username
+2022-02-18 20:45:11,664 - Amazon Test -INFO - clicked continue button
+2022-02-18 20:45:11,826 - Amazon Test -INFO - Entered Password
+2022-02-18 20:45:11,894 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 20:52:23,686 - Amazon Test -INFO - URL is opened
+2022-02-18 20:52:24,800 - Amazon Test -INFO - Entered username
+2022-02-18 20:52:25,542 - Amazon Test -INFO - clicked continue button
+2022-02-18 20:52:25,613 - Amazon Test -INFO - Entered Password
+2022-02-18 20:52:25,826 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 20:54:08,363 - Amazon Test -INFO - URL is opened
+2022-02-18 20:54:09,585 - Amazon Test -INFO - Entered username
+2022-02-18 20:54:10,383 - Amazon Test -INFO - clicked continue button
+2022-02-18 20:54:10,445 - Amazon Test -INFO - Entered Password
+2022-02-18 20:54:10,513 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 20:56:51,773 - Amazon Test -INFO - URL is opened
+2022-02-18 20:56:52,922 - Amazon Test -INFO - Entered username
+2022-02-18 20:56:53,383 - Amazon Test -INFO - clicked continue button
+2022-02-18 20:56:53,444 - Amazon Test -INFO - Entered Password
+2022-02-18 20:56:53,514 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 20:58:22,301 - Amazon Test -INFO - URL is opened
+2022-02-18 20:58:23,538 - Amazon Test -INFO - Entered username
+2022-02-18 20:58:24,121 - Amazon Test -INFO - clicked continue button
+2022-02-18 20:58:24,184 - Amazon Test -INFO - Entered Password
+2022-02-18 20:58:24,258 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 20:58:36,080 - Amazon Test -INFO - Test Passed
+2022-02-18 21:01:50,696 - Amazon Test -INFO - URL is opened
+2022-02-18 21:01:50,724 - Amazon Test -INFO - URL is opened
+2022-02-18 21:01:52,362 - Amazon Test -INFO - Entered username
+2022-02-18 21:01:52,431 - Amazon Test -INFO - Entered username
+2022-02-18 21:01:53,258 - Amazon Test -INFO - clicked continue button
+2022-02-18 21:01:53,328 - Amazon Test -INFO - clicked continue button
+2022-02-18 21:01:53,361 - Amazon Test -INFO - Entered Password
+2022-02-18 21:01:53,434 - Amazon Test -INFO - Entered Password
+2022-02-18 21:01:53,579 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 21:01:53,642 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 21:07:12,942 - Amazon Test -INFO - URL is opened
+2022-02-18 21:07:14,205 - Amazon Test -INFO - Entered username
+2022-02-18 21:07:14,790 - Amazon Test -INFO - clicked continue button
+2022-02-18 21:07:14,859 - Amazon Test -INFO - Entered Password
+2022-02-18 21:07:14,936 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 21:08:10,167 - Amazon Test -INFO - URL is opened
+2022-02-18 21:08:11,309 - Amazon Test -INFO - Entered username
+2022-02-18 21:08:11,734 - Amazon Test -INFO - clicked continue button
+2022-02-18 21:08:11,810 - Amazon Test -INFO - Entered Password
+2022-02-18 21:08:13,799 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 21:09:42,565 - Amazon Test -INFO - URL is opened
+2022-02-18 21:09:42,871 - Amazon Test -INFO - URL is opened
+2022-02-18 21:09:44,247 - Amazon Test -INFO - Entered username
+2022-02-18 21:09:44,530 - Amazon Test -INFO - Entered username
+2022-02-18 21:09:45,288 - Amazon Test -INFO - clicked continue button
+2022-02-18 21:09:45,332 - Amazon Test -INFO - clicked continue button
+2022-02-18 21:09:45,376 - Amazon Test -INFO - Entered Password
+2022-02-18 21:09:45,432 - Amazon Test -INFO - Entered Password
+2022-02-18 21:09:45,493 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 21:09:45,559 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 21:09:59,546 - Amazon Test -INFO - Test Passed
+2022-02-18 21:10:31,783 - Amazon Test -INFO - URL is opened
+2022-02-18 21:10:33,020 - Amazon Test -INFO - Entered username
+2022-02-18 21:10:33,476 - Amazon Test -INFO - clicked continue button
+2022-02-18 21:10:33,539 - Amazon Test -INFO - Entered Password
+2022-02-18 21:10:33,618 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 21:11:56,250 - Amazon Test -INFO - URL is opened
+2022-02-18 21:11:57,364 - Amazon Test -INFO - Entered username
+2022-02-18 21:11:58,099 - Amazon Test -INFO - clicked continue button
+2022-02-18 21:11:58,274 - Amazon Test -INFO - Entered Password
+2022-02-18 21:11:58,340 - Amazon Test -INFO - Clicked Submit button
+2022-02-18 21:12:11,927 - Amazon Test -INFO - Test Passed
+2022-02-19 10:17:44,610 - Amazon Test -INFO - URL is opened
+2022-02-19 10:17:45,810 - Amazon Test -INFO - Entered username
+2022-02-19 10:17:46,640 - Amazon Test -INFO - clicked continue button
+2022-02-19 10:17:46,714 - Amazon Test -INFO - Entered Password
+2022-02-19 10:17:46,921 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 10:26:26,557 - Amazon Test -INFO - URL is opened
+2022-02-19 10:26:27,883 - Amazon Test -INFO - Entered username
+2022-02-19 10:26:28,399 - Amazon Test -INFO - clicked continue button
+2022-02-19 10:26:28,497 - Amazon Test -INFO - Entered Password
+2022-02-19 10:26:28,603 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 10:27:24,688 - Amazon Test -INFO - URL is opened
+2022-02-19 10:27:25,968 - Amazon Test -INFO - Entered username
+2022-02-19 10:27:26,827 - Amazon Test -INFO - clicked continue button
+2022-02-19 10:27:26,895 - Amazon Test -INFO - Entered Password
+2022-02-19 10:27:26,965 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 10:29:35,683 - Amazon Test -INFO - URL is opened
+2022-02-19 10:29:36,998 - Amazon Test -INFO - Entered username
+2022-02-19 10:29:37,543 - Amazon Test -INFO - clicked continue button
+2022-02-19 10:29:37,633 - Amazon Test -INFO - Entered Password
+2022-02-19 10:29:37,703 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 10:30:40,810 - Amazon Test -INFO - URL is opened
+2022-02-19 10:30:42,042 - Amazon Test -INFO - Entered username
+2022-02-19 10:30:42,818 - Amazon Test -INFO - clicked continue button
+2022-02-19 10:30:42,995 - Amazon Test -INFO - Entered Password
+2022-02-19 10:30:43,082 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 10:32:37,004 - Amazon Test -INFO - URL is opened
+2022-02-19 10:32:38,055 - Amazon Test -INFO - Entered username
+2022-02-19 10:32:38,576 - Amazon Test -INFO - clicked continue button
+2022-02-19 10:32:38,648 - Amazon Test -INFO - Entered Password
+2022-02-19 10:32:38,716 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 10:33:37,337 - Amazon Test -INFO - URL is opened
+2022-02-19 10:33:38,559 - Amazon Test -INFO - Entered username
+2022-02-19 10:33:39,439 - Amazon Test -INFO - clicked continue button
+2022-02-19 10:33:39,509 - Amazon Test -INFO - Entered Password
+2022-02-19 10:33:39,589 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 10:33:54,007 - Amazon Test -INFO - Test Passed
+2022-02-19 10:35:17,106 - Amazon Test -INFO - URL is opened
+2022-02-19 10:35:18,343 - Amazon Test -INFO - Entered username
+2022-02-19 10:35:18,929 - Amazon Test -INFO - clicked continue button
+2022-02-19 10:35:19,002 - Amazon Test -INFO - Entered Password
+2022-02-19 10:35:19,070 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 10:53:01,889 - Amazon Test -INFO - URL is opened
+2022-02-19 10:53:03,083 - Amazon Test -INFO - Entered username
+2022-02-19 10:53:03,529 - Amazon Test -INFO - clicked continue button
+2022-02-19 10:53:03,604 - Amazon Test -INFO - Entered Password
+2022-02-19 10:53:03,682 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 10:54:52,371 - Amazon Test -INFO - URL is opened
+2022-02-19 10:54:52,554 - Amazon Test -INFO - URL is opened
+2022-02-19 10:54:54,299 - Amazon Test -INFO - Entered username
+2022-02-19 10:54:54,349 - Amazon Test -INFO - Entered username
+2022-02-19 10:54:55,120 - Amazon Test -INFO - clicked continue button
+2022-02-19 10:54:55,272 - Amazon Test -INFO - clicked continue button
+2022-02-19 10:54:55,363 - Amazon Test -INFO - Entered Password
+2022-02-19 10:54:55,409 - Amazon Test -INFO - Entered Password
+2022-02-19 10:54:55,503 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 10:54:55,606 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 10:56:57,950 - Amazon Test -INFO - URL is opened
+2022-02-19 10:56:59,452 - Amazon Test -INFO - Entered username
+2022-02-19 10:56:59,923 - Amazon Test -INFO - clicked continue button
+2022-02-19 10:56:59,990 - Amazon Test -INFO - Entered Password
+2022-02-19 10:57:00,064 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 11:03:15,704 - Amazon Test -INFO - URL is opened
+2022-02-19 11:03:16,886 - Amazon Test -INFO - Entered username
+2022-02-19 11:03:17,350 - Amazon Test -INFO - clicked continue button
+2022-02-19 11:03:17,549 - Amazon Test -INFO - Entered Password
+2022-02-19 11:03:17,629 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 11:03:58,100 - Amazon Test -INFO - URL is opened
+2022-02-19 11:03:59,300 - Amazon Test -INFO - Entered username
+2022-02-19 11:03:59,841 - Amazon Test -INFO - clicked continue button
+2022-02-19 11:03:59,914 - Amazon Test -INFO - Entered Password
+2022-02-19 11:03:59,983 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 11:06:41,325 - Amazon Test -INFO - URL is opened
+2022-02-19 11:06:42,489 - Amazon Test -INFO - Entered username
+2022-02-19 11:06:43,053 - Amazon Test -INFO - clicked continue button
+2022-02-19 11:06:43,124 - Amazon Test -INFO - Entered Password
+2022-02-19 11:06:43,197 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 11:10:01,847 - Amazon Test -INFO - URL is opened
+2022-02-19 11:10:03,133 - Amazon Test -INFO - Entered username
+2022-02-19 11:10:03,703 - Amazon Test -INFO - clicked continue button
+2022-02-19 11:10:03,780 - Amazon Test -INFO - Entered Password
+2022-02-19 11:10:03,859 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 13:01:39,474 - Amazon Test -INFO - URL is opened
+2022-02-19 13:01:40,614 - Amazon Test -INFO - Entered username
+2022-02-19 13:01:41,437 - Amazon Test -INFO - clicked continue button
+2022-02-19 13:01:41,502 - Amazon Test -INFO - Entered Password
+2022-02-19 13:01:41,571 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 13:19:40,190 - Amazon Test -INFO - URL is opened
+2022-02-19 13:19:41,420 - Amazon Test -INFO - Entered username
+2022-02-19 13:19:42,149 - Amazon Test -INFO - clicked continue button
+2022-02-19 13:19:42,214 - Amazon Test -INFO - Entered Password
+2022-02-19 13:19:42,289 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 13:22:27,568 - Amazon Test -INFO - URL is opened
+2022-02-19 13:22:29,066 - Amazon Test -INFO - Entered username
+2022-02-19 13:22:29,652 - Amazon Test -INFO - clicked continue button
+2022-02-19 13:22:29,720 - Amazon Test -INFO - Entered Password
+2022-02-19 13:22:29,795 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 13:28:22,863 - Amazon Test -INFO - URL is opened
+2022-02-19 13:28:24,047 - Amazon Test -INFO - Entered username
+2022-02-19 13:28:24,619 - Amazon Test -INFO - clicked continue button
+2022-02-19 13:28:24,680 - Amazon Test -INFO - Entered Password
+2022-02-19 13:28:24,746 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 13:53:31,438 - Amazon Test -INFO - URL is opened
+2022-02-19 13:53:32,732 - Amazon Test -INFO - Entered username
+2022-02-19 13:53:33,317 - Amazon Test -INFO - clicked continue button
+2022-02-19 13:53:33,404 - Amazon Test -INFO - Entered Password
+2022-02-19 13:53:33,580 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 14:01:08,382 - Amazon Test -INFO - URL is opened
+2022-02-19 14:01:09,728 - Amazon Test -INFO - Entered username
+2022-02-19 14:01:10,487 - Amazon Test -INFO - clicked continue button
+2022-02-19 14:01:10,565 - Amazon Test -INFO - Entered Password
+2022-02-19 14:01:10,640 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 14:02:29,839 - Amazon Test -INFO - URL is opened
+2022-02-19 14:02:31,152 - Amazon Test -INFO - Entered username
+2022-02-19 14:02:32,360 - Amazon Test -INFO - clicked continue button
+2022-02-19 14:02:32,426 - Amazon Test -INFO - Entered Password
+2022-02-19 14:02:32,691 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 14:03:34,663 - Amazon Test -INFO - URL is opened
+2022-02-19 14:03:35,903 - Amazon Test -INFO - Entered username
+2022-02-19 14:03:36,585 - Amazon Test -INFO - clicked continue button
+2022-02-19 14:03:36,650 - Amazon Test -INFO - Entered Password
+2022-02-19 14:03:36,734 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 14:03:44,934 - Amazon Test -INFO - Test Failed
+2022-02-19 14:07:37,521 - Amazon Test -INFO - URL is opened
+2022-02-19 14:07:38,790 - Amazon Test -INFO - Entered username
+2022-02-19 14:07:39,506 - Amazon Test -INFO - clicked continue button
+2022-02-19 14:07:39,576 - Amazon Test -INFO - Entered Password
+2022-02-19 14:07:39,652 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 14:07:48,105 - Amazon Test -INFO - Test Failed
+2022-02-19 14:12:21,874 - Amazon Test -INFO - URL is opened
+2022-02-19 14:12:23,150 - Amazon Test -INFO - Entered username
+2022-02-19 14:12:24,277 - Amazon Test -INFO - clicked continue button
+2022-02-19 14:12:24,354 - Amazon Test -INFO - Entered Password
+2022-02-19 14:12:24,437 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 14:12:33,343 - Amazon Test -INFO - Test Passed
+2022-02-19 14:14:18,415 - Amazon Test -INFO - URL is opened
+2022-02-19 14:14:19,631 - Amazon Test -INFO - Entered username
+2022-02-19 14:14:20,417 - Amazon Test -INFO - clicked continue button
+2022-02-19 14:14:20,499 - Amazon Test -INFO - Entered Password
+2022-02-19 14:14:20,564 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 14:15:24,479 - Amazon Test -INFO - URL is opened
+2022-02-19 14:15:25,727 - Amazon Test -INFO - Entered username
+2022-02-19 14:15:26,593 - Amazon Test -INFO - clicked continue button
+2022-02-19 14:15:26,658 - Amazon Test -INFO - Entered Password
+2022-02-19 14:15:26,729 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 14:15:35,361 - Amazon Test -INFO - Test Passed
+2022-02-19 14:16:44,944 - Amazon Test -INFO - URL is opened
+2022-02-19 14:16:46,303 - Amazon Test -INFO - Entered username
+2022-02-19 14:16:46,976 - Amazon Test -INFO - clicked continue button
+2022-02-19 14:16:47,034 - Amazon Test -INFO - Entered Password
+2022-02-19 14:16:47,103 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 14:18:19,157 - Amazon Test -INFO - URL is opened
+2022-02-19 14:18:20,483 - Amazon Test -INFO - Entered username
+2022-02-19 14:18:21,292 - Amazon Test -INFO - clicked continue button
+2022-02-19 14:18:21,403 - Amazon Test -INFO - Entered Password
+2022-02-19 14:18:21,472 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 14:18:30,941 - Amazon Test -INFO - Test failed
+2022-02-19 14:20:07,656 - Amazon Test -INFO - URL is opened
+2022-02-19 14:20:09,137 - Amazon Test -INFO - Entered username
+2022-02-19 14:20:10,046 - Amazon Test -INFO - clicked continue button
+2022-02-19 14:20:10,115 - Amazon Test -INFO - Entered Password
+2022-02-19 14:20:10,201 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 14:20:19,155 - Amazon Test -INFO - Test passed
+2022-02-19 16:18:46,336 - Amazon Test -INFO - URL is opened
+2022-02-19 16:18:47,942 - Amazon Test -INFO - Entered username
+2022-02-19 16:18:48,445 - Amazon Test -INFO - clicked continue button
+2022-02-19 16:18:48,527 - Amazon Test -INFO - Entered Password
+2022-02-19 16:18:48,601 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 16:19:34,692 - Amazon Test -INFO - URL is opened
+2022-02-19 16:19:36,060 - Amazon Test -INFO - Entered username
+2022-02-19 16:19:36,782 - Amazon Test -INFO - clicked continue button
+2022-02-19 16:19:36,853 - Amazon Test -INFO - Entered Password
+2022-02-19 16:19:36,958 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 16:51:05,627 - Amazon Test -INFO - URL is opened
+2022-02-19 16:51:06,479 - Amazon Test -INFO - URL is opened
+2022-02-19 17:09:51,541 - Amazon Test -INFO - URL is opened
+2022-02-19 17:11:39,509 - Amazon Test -INFO - URL is opened
+2022-02-19 17:11:41,312 - Amazon Test -INFO - URL is opened
+2022-02-19 17:12:18,477 - Amazon Test -INFO - URL is opened
+2022-02-19 17:20:34,060 - Amazon Test -INFO - URL is opened
+2022-02-19 17:20:35,684 - Amazon Test -INFO - Entered username
+2022-02-19 17:20:36,227 - Amazon Test -INFO - clicked continue button
+2022-02-19 17:20:36,293 - Amazon Test -INFO - Entered Password
+2022-02-19 17:20:36,366 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 17:20:39,493 - Amazon Test -INFO - Test Case Passed
+2022-02-19 17:22:16,343 - Amazon Test -INFO - URL is opened
+2022-02-19 17:22:17,757 - Amazon Test -INFO - Entered username
+2022-02-19 17:22:18,603 - Amazon Test -INFO - clicked continue button
+2022-02-19 17:22:18,668 - Amazon Test -INFO - Entered Password
+2022-02-19 17:22:18,736 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 17:23:22,351 - Amazon Test -INFO - URL is opened
+2022-02-19 17:24:17,327 - Amazon Test -INFO - URL is opened
+2022-02-19 17:24:18,766 - Amazon Test -INFO - Entered username
+2022-02-19 17:24:19,398 - Amazon Test -INFO - clicked continue button
+2022-02-19 17:24:19,463 - Amazon Test -INFO - Entered Password
+2022-02-19 17:24:19,531 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 17:26:23,244 - Amazon Test -INFO - URL is opened
+2022-02-19 17:26:23,303 - Amazon Test -INFO - URL is opened
+2022-02-19 17:26:25,164 - Amazon Test -INFO - Entered username
+2022-02-19 17:26:25,282 - Amazon Test -INFO - Entered username
+2022-02-19 17:26:25,931 - Amazon Test -INFO - clicked continue button
+2022-02-19 17:26:26,110 - Amazon Test -INFO - Entered Password
+2022-02-19 17:26:26,257 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 17:26:26,385 - Amazon Test -INFO - clicked continue button
+2022-02-19 17:26:26,445 - Amazon Test -INFO - Entered Password
+2022-02-19 17:26:26,528 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 17:31:50,772 - Amazon Test -INFO - URL is opened
+2022-02-19 17:31:51,956 - Amazon Test -INFO - Entered username
+2022-02-19 17:31:52,551 - Amazon Test -INFO - clicked continue button
+2022-02-19 17:31:52,613 - Amazon Test -INFO - Entered Password
+2022-02-19 17:31:52,690 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 17:32:49,416 - Amazon Test -INFO - URL is opened
+2022-02-19 17:32:50,939 - Amazon Test -INFO - Entered username
+2022-02-19 17:32:51,656 - Amazon Test -INFO - clicked continue button
+2022-02-19 17:32:51,759 - Amazon Test -INFO - Entered Password
+2022-02-19 17:32:51,947 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 17:32:55,078 - Amazon Test -INFO - Logged in Amazon
+2022-02-19 17:37:11,051 - Amazon Test -INFO - URL is opened
+2022-02-19 17:37:12,215 - Amazon Test -INFO - Entered username
+2022-02-19 17:37:13,188 - Amazon Test -INFO - clicked continue button
+2022-02-19 17:37:13,248 - Amazon Test -INFO - Entered Password
+2022-02-19 17:37:13,314 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 17:37:16,352 - Amazon Test -INFO - Logged in Amazon
+2022-02-19 17:37:59,830 - Amazon Test -INFO - URL is opened
+2022-02-19 17:38:02,026 - Amazon Test -INFO - Entered username
+2022-02-19 17:38:02,722 - Amazon Test -INFO - clicked continue button
+2022-02-19 17:38:02,783 - Amazon Test -INFO - Entered Password
+2022-02-19 17:38:02,854 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 17:38:06,288 - Amazon Test -INFO - Logged in Amazon
+2022-02-19 17:40:01,721 - Amazon Test -INFO - URL is opened
+2022-02-19 17:40:02,873 - Amazon Test -INFO - Entered username
+2022-02-19 17:40:03,560 - Amazon Test -INFO - clicked continue button
+2022-02-19 17:40:03,627 - Amazon Test -INFO - Entered Password
+2022-02-19 17:40:03,704 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 17:40:06,715 - Amazon Test -INFO - Logged in Amazon
+2022-02-19 17:48:04,433 - Amazon Test -INFO - URL is opened
+2022-02-19 17:48:06,041 - Amazon Test -INFO - Entered username
+2022-02-19 17:48:07,017 - Amazon Test -INFO - clicked continue button
+2022-02-19 17:48:07,083 - Amazon Test -INFO - Entered Password
+2022-02-19 17:48:07,147 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 17:54:56,158 - Amazon Test -INFO - URL is opened
+2022-02-19 17:54:58,011 - Amazon Test -INFO - Entered username
+2022-02-19 17:54:58,514 - Amazon Test -INFO - clicked continue button
+2022-02-19 17:54:58,575 - Amazon Test -INFO - Entered Password
+2022-02-19 17:54:58,653 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 17:56:13,705 - Amazon Test -INFO - URL is opened
+2022-02-19 17:56:15,051 - Amazon Test -INFO - Entered username
+2022-02-19 17:56:15,793 - Amazon Test -INFO - clicked continue button
+2022-02-19 17:56:15,855 - Amazon Test -INFO - Entered Password
+2022-02-19 17:56:15,933 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 17:57:10,462 - Amazon Test -INFO - URL is opened
+2022-02-19 17:57:11,811 - Amazon Test -INFO - Entered username
+2022-02-19 17:57:13,009 - Amazon Test -INFO - clicked continue button
+2022-02-19 17:57:13,071 - Amazon Test -INFO - Entered Password
+2022-02-19 17:57:13,144 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 17:58:16,772 - Amazon Test -INFO - URL is opened
+2022-02-19 17:58:18,275 - Amazon Test -INFO - Entered username
+2022-02-19 17:58:19,290 - Amazon Test -INFO - clicked continue button
+2022-02-19 17:58:19,358 - Amazon Test -INFO - Entered Password
+2022-02-19 17:58:19,428 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 17:58:45,691 - Amazon Test -INFO - Test Passed
+2022-02-19 18:00:40,278 - Amazon Test -INFO - URL is opened
+2022-02-19 18:00:41,745 - Amazon Test -INFO - Entered username
+2022-02-19 18:00:45,593 - Amazon Test -INFO - clicked continue button
+2022-02-19 18:00:45,656 - Amazon Test -INFO - Entered Password
+2022-02-19 18:00:45,739 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 18:01:14,003 - Amazon Test -INFO - Test Passed
+2022-02-19 18:31:23,255 - Amazon Test -INFO - URL is opened
+2022-02-19 18:31:24,489 - Amazon Test -INFO - Entered username
+2022-02-19 18:31:25,408 - Amazon Test -INFO - clicked continue button
+2022-02-19 18:31:25,474 - Amazon Test -INFO - Entered Password
+2022-02-19 18:31:25,542 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 18:33:09,763 - Amazon Test -INFO - URL is opened
+2022-02-19 18:33:11,309 - Amazon Test -INFO - Entered username
+2022-02-19 18:33:11,941 - Amazon Test -INFO - clicked continue button
+2022-02-19 18:33:12,008 - Amazon Test -INFO - Entered Password
+2022-02-19 18:33:12,085 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 18:33:12,335 - Amazon Test -INFO - URL is opened
+2022-02-19 18:33:14,465 - Amazon Test -INFO - Entered username
+2022-02-19 18:33:15,436 - Amazon Test -INFO - clicked continue button
+2022-02-19 18:33:15,580 - Amazon Test -INFO - Entered Password
+2022-02-19 18:33:15,717 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 18:35:42,130 - Amazon Test -INFO - URL is opened
+2022-02-19 18:35:43,544 - Amazon Test -INFO - Entered username
+2022-02-19 18:35:44,268 - Amazon Test -INFO - clicked continue button
+2022-02-19 18:35:44,331 - Amazon Test -INFO - Entered Password
+2022-02-19 18:35:44,403 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 18:35:46,382 - Amazon Test -INFO - URL is opened
+2022-02-19 18:35:48,432 - Amazon Test -INFO - Entered username
+2022-02-19 18:35:49,093 - Amazon Test -INFO - clicked continue button
+2022-02-19 18:35:49,197 - Amazon Test -INFO - Entered Password
+2022-02-19 18:35:49,310 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 18:38:03,763 - Amazon Test -INFO - URL is opened
+2022-02-19 18:38:05,894 - Amazon Test -INFO - Entered username
+2022-02-19 18:38:06,808 - Amazon Test -INFO - clicked continue button
+2022-02-19 18:38:06,874 - Amazon Test -INFO - Entered Password
+2022-02-19 18:38:06,942 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 18:38:20,841 - Amazon Test -INFO - added 2 items to the cart
+2022-02-19 18:38:24,613 - Amazon Test -INFO - IN AMAZON CART
+2022-02-19 18:38:24,662 - Amazon Test -INFO - Test Failed
+2022-02-19 18:40:37,802 - Amazon Test -INFO - URL is opened
+2022-02-19 18:40:39,605 - Amazon Test -INFO - Entered username
+2022-02-19 18:40:40,694 - Amazon Test -INFO - clicked continue button
+2022-02-19 18:40:40,763 - Amazon Test -INFO - Entered Password
+2022-02-19 18:40:40,835 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 18:40:56,377 - Amazon Test -INFO - added 2 items to the cart
+2022-02-19 18:40:59,886 - Amazon Test -INFO - IN AMAZON CART
+2022-02-19 18:41:02,700 - Amazon Test -INFO - Test Failed
+2022-02-19 18:42:30,112 - Amazon Test -INFO - URL is opened
+2022-02-19 18:42:30,356 - Amazon Test -INFO - URL is opened
+2022-02-19 18:42:32,062 - Amazon Test -INFO - Entered username
+2022-02-19 18:42:32,780 - Amazon Test -INFO - Entered username
+2022-02-19 18:42:33,131 - Amazon Test -INFO - clicked continue button
+2022-02-19 18:42:33,230 - Amazon Test -INFO - Entered Password
+2022-02-19 18:42:33,353 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 18:42:33,801 - Amazon Test -INFO - clicked continue button
+2022-02-19 18:42:33,869 - Amazon Test -INFO - Entered Password
+2022-02-19 18:42:33,965 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 18:42:50,383 - Amazon Test -INFO - added 2 items to the cart
+2022-02-19 18:42:52,918 - Amazon Test -INFO - added 2 items to the cart
+2022-02-19 18:42:53,342 - Amazon Test -INFO - IN AMAZON CART
+2022-02-19 18:42:55,768 - Amazon Test -INFO - Test Failed
+2022-02-19 18:42:56,719 - Amazon Test -INFO - IN AMAZON CART
+2022-02-19 18:42:59,317 - Amazon Test -INFO - Test Failed
+2022-02-19 18:52:33,968 - Amazon Test -INFO - URL is opened
+2022-02-19 18:52:35,222 - Amazon Test -INFO - Entered username
+2022-02-19 18:52:39,433 - Amazon Test -INFO - clicked continue button
+2022-02-19 18:52:39,494 - Amazon Test -INFO - Entered Password
+2022-02-19 18:52:39,578 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 18:52:55,721 - Amazon Test -INFO - added 2 items to the cart
+2022-02-19 18:52:59,298 - Amazon Test -INFO - IN AMAZON CART
+2022-02-19 18:53:01,891 - Amazon Test -INFO - Test Failed
+2022-02-19 18:53:54,099 - Amazon Test -INFO - URL is opened
+2022-02-19 18:53:56,163 - Amazon Test -INFO - Entered username
+2022-02-19 18:53:57,155 - Amazon Test -INFO - clicked continue button
+2022-02-19 18:53:57,221 - Amazon Test -INFO - Entered Password
+2022-02-19 18:53:57,294 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 18:54:14,299 - Amazon Test -INFO - added 2 items to the cart
+2022-02-19 18:54:17,408 - Amazon Test -INFO - IN AMAZON CART
+2022-02-19 18:54:19,557 - Amazon Test -INFO - Test Failed
+2022-02-19 18:55:43,158 - Amazon Test -INFO - URL is opened
+2022-02-19 18:55:44,496 - Amazon Test -INFO - Entered username
+2022-02-19 18:55:45,618 - Amazon Test -INFO - clicked continue button
+2022-02-19 18:55:45,691 - Amazon Test -INFO - Entered Password
+2022-02-19 18:55:45,759 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 18:56:00,546 - Amazon Test -INFO - added 2 items to the cart
+2022-02-19 18:56:03,215 - Amazon Test -INFO - IN AMAZON CART
+2022-02-19 18:56:15,258 - Amazon Test -INFO - Test Failed
+2022-02-19 18:59:33,406 - Amazon Test -INFO - URL is opened
+2022-02-19 18:59:35,168 - Amazon Test -INFO - Entered username
+2022-02-19 18:59:35,890 - Amazon Test -INFO - clicked continue button
+2022-02-19 18:59:35,983 - Amazon Test -INFO - Entered Password
+2022-02-19 18:59:36,090 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 19:04:08,923 - Amazon Test -INFO - URL is opened
+2022-02-19 19:04:10,314 - Amazon Test -INFO - Entered username
+2022-02-19 19:04:11,240 - Amazon Test -INFO - clicked continue button
+2022-02-19 19:04:11,309 - Amazon Test -INFO - Entered Password
+2022-02-19 19:04:11,391 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 19:15:57,207 - Amazon Test -INFO - URL is opened
+2022-02-19 19:15:58,835 - Amazon Test -INFO - Entered username
+2022-02-19 19:15:59,467 - Amazon Test -INFO - clicked continue button
+2022-02-19 19:15:59,531 - Amazon Test -INFO - Entered Password
+2022-02-19 19:15:59,609 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 19:18:09,681 - Amazon Test -INFO - URL is opened
+2022-02-19 19:18:10,892 - Amazon Test -INFO - Entered username
+2022-02-19 19:18:11,571 - Amazon Test -INFO - clicked continue button
+2022-02-19 19:18:11,629 - Amazon Test -INFO - Entered Password
+2022-02-19 19:18:11,696 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 19:19:19,273 - Amazon Test -INFO - URL is opened
+2022-02-19 19:19:20,477 - Amazon Test -INFO - Entered username
+2022-02-19 19:19:21,419 - Amazon Test -INFO - clicked continue button
+2022-02-19 19:19:21,481 - Amazon Test -INFO - Entered Password
+2022-02-19 19:19:21,548 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 19:23:03,782 - Amazon Test -INFO - URL is opened
+2022-02-19 19:23:05,019 - Amazon Test -INFO - Entered username
+2022-02-19 19:23:05,856 - Amazon Test -INFO - clicked continue button
+2022-02-19 19:23:05,921 - Amazon Test -INFO - Entered Password
+2022-02-19 19:23:05,994 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 19:23:57,130 - Amazon Test -INFO - URL is opened
+2022-02-19 19:23:58,573 - Amazon Test -INFO - Entered username
+2022-02-19 19:23:59,870 - Amazon Test -INFO - clicked continue button
+2022-02-19 19:23:59,950 - Amazon Test -INFO - Entered Password
+2022-02-19 19:24:00,122 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 19:29:08,401 - Amazon Test -INFO - URL is opened
+2022-02-19 19:29:09,553 - Amazon Test -INFO - Entered username
+2022-02-19 19:29:11,249 - Amazon Test -INFO - clicked continue button
+2022-02-19 19:29:11,314 - Amazon Test -INFO - Entered Password
+2022-02-19 19:29:11,440 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 19:31:13,546 - Amazon Test -INFO - URL is opened
+2022-02-19 19:31:14,755 - Amazon Test -INFO - Entered username
+2022-02-19 19:31:15,442 - Amazon Test -INFO - clicked continue button
+2022-02-19 19:31:15,512 - Amazon Test -INFO - Entered Password
+2022-02-19 19:31:15,590 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 19:32:57,712 - Amazon Test -INFO - URL is opened
+2022-02-19 19:32:59,814 - Amazon Test -INFO - Entered username
+2022-02-19 19:33:00,490 - Amazon Test -INFO - clicked continue button
+2022-02-19 19:33:00,551 - Amazon Test -INFO - Entered Password
+2022-02-19 19:33:00,613 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 19:36:44,951 - Amazon Test -INFO - URL is opened
+2022-02-19 19:36:47,481 - Amazon Test -INFO - Entered username
+2022-02-19 19:36:48,367 - Amazon Test -INFO - clicked continue button
+2022-02-19 19:36:48,477 - Amazon Test -INFO - Entered Password
+2022-02-19 19:36:48,810 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 19:37:34,362 - Amazon Test -INFO - added 2 items to the cart
+2022-02-19 19:37:38,198 - Amazon Test -INFO - IN AMAZON CART
+2022-02-19 19:37:39,840 - Amazon Test -INFO - Test Failed
+2022-02-19 19:43:09,343 - Amazon Test -INFO - URL is opened
+2022-02-19 19:43:10,709 - Amazon Test -INFO - Entered username
+2022-02-19 19:43:11,788 - Amazon Test -INFO - clicked continue button
+2022-02-19 19:43:11,973 - Amazon Test -INFO - Entered Password
+2022-02-19 19:43:12,120 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 19:52:59,835 - Amazon Test -INFO - URL is opened
+2022-02-19 19:53:01,081 - Amazon Test -INFO - Entered username
+2022-02-19 19:53:01,925 - Amazon Test -INFO - clicked continue button
+2022-02-19 19:53:01,990 - Amazon Test -INFO - Entered Password
+2022-02-19 19:53:02,058 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 19:54:16,210 - Amazon Test -INFO - URL is opened
+2022-02-19 19:54:18,159 - Amazon Test -INFO - URL is opened
+2022-02-19 19:54:18,753 - Amazon Test -INFO - Entered username
+2022-02-19 19:54:19,713 - Amazon Test -INFO - Entered username
+2022-02-19 19:54:19,812 - Amazon Test -INFO - clicked continue button
+2022-02-19 19:54:20,008 - Amazon Test -INFO - Entered Password
+2022-02-19 19:54:20,134 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 19:54:20,675 - Amazon Test -INFO - clicked continue button
+2022-02-19 19:54:20,764 - Amazon Test -INFO - Entered Password
+2022-02-19 19:54:20,852 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 19:55:53,692 - Amazon Test -INFO - URL is opened
+2022-02-19 19:55:55,403 - Amazon Test -INFO - Entered username
+2022-02-19 19:55:56,033 - Amazon Test -INFO - clicked continue button
+2022-02-19 19:55:56,095 - Amazon Test -INFO - Entered Password
+2022-02-19 19:55:56,160 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 19:57:27,288 - Amazon Test -INFO - URL is opened
+2022-02-19 19:57:28,727 - Amazon Test -INFO - Entered username
+2022-02-19 19:57:29,879 - Amazon Test -INFO - clicked continue button
+2022-02-19 19:57:29,944 - Amazon Test -INFO - Entered Password
+2022-02-19 19:57:30,016 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 19:59:27,893 - Amazon Test -INFO - URL is opened
+2022-02-19 19:59:29,510 - Amazon Test -INFO - Entered username
+2022-02-19 19:59:30,194 - Amazon Test -INFO - clicked continue button
+2022-02-19 19:59:30,277 - Amazon Test -INFO - Entered Password
+2022-02-19 19:59:30,355 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 20:01:33,770 - Amazon Test -INFO - URL is opened
+2022-02-19 20:01:34,254 - Amazon Test -INFO - URL is opened
+2022-02-19 20:01:35,610 - Amazon Test -INFO - Entered username
+2022-02-19 20:01:36,140 - Amazon Test -INFO - Entered username
+2022-02-19 20:01:36,627 - Amazon Test -INFO - clicked continue button
+2022-02-19 20:01:36,714 - Amazon Test -INFO - Entered Password
+2022-02-19 20:01:36,826 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 20:01:37,060 - Amazon Test -INFO - clicked continue button
+2022-02-19 20:01:37,128 - Amazon Test -INFO - Entered Password
+2022-02-19 20:01:37,216 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 20:02:11,486 - Amazon Test -INFO - added 2 items to the cart
+2022-02-19 20:02:13,337 - Amazon Test -INFO - added 2 items to the cart
+2022-02-19 20:02:15,744 - Amazon Test -INFO - IN AMAZON CART
+2022-02-19 20:02:16,775 - Amazon Test -INFO - IN AMAZON CART
+2022-02-19 20:02:18,752 - Amazon Test -INFO - Test Passed
+2022-02-19 20:02:19,598 - Amazon Test -INFO - Test Passed
+2022-02-19 20:02:59,954 - Amazon Test -INFO - URL is opened
+2022-02-19 20:03:01,196 - Amazon Test -INFO - Entered username
+2022-02-19 20:03:02,106 - Amazon Test -INFO - clicked continue button
+2022-02-19 20:03:02,168 - Amazon Test -INFO - Entered Password
+2022-02-19 20:03:02,242 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 20:03:30,709 - Amazon Test -INFO - added 2 items to the cart
+2022-02-19 20:03:34,330 - Amazon Test -INFO - IN AMAZON CART
+2022-02-19 20:03:36,625 - Amazon Test -INFO - Test Passed
+2022-02-19 20:07:34,077 - Amazon Test -INFO - URL is opened
+2022-02-19 20:07:35,443 - Amazon Test -INFO - Entered username
+2022-02-19 20:07:37,030 - Amazon Test -INFO - clicked continue button
+2022-02-19 20:07:37,112 - Amazon Test -INFO - Entered Password
+2022-02-19 20:07:37,246 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 22:48:22,679 - Amazon Test -INFO - URL is opened
+2022-02-19 22:48:24,130 - Amazon Test -INFO - Entered username
+2022-02-19 22:48:24,876 - Amazon Test -INFO - clicked continue button
+2022-02-19 22:48:24,940 - Amazon Test -INFO - Entered Password
+2022-02-19 22:48:25,006 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 22:49:30,309 - Amazon Test -INFO - URL is opened
+2022-02-19 22:49:31,923 - Amazon Test -INFO - Entered username
+2022-02-19 22:49:32,621 - Amazon Test -INFO - clicked continue button
+2022-02-19 22:49:32,686 - Amazon Test -INFO - Entered Password
+2022-02-19 22:49:32,764 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 22:49:36,736 - Amazon Test -INFO - Logged into Amazon
+2022-02-19 22:50:00,521 - Amazon Test -INFO - added 2 items to the cart
+2022-02-19 22:50:03,335 - Amazon Test -INFO - IN AMAZON CART
+2022-02-19 22:50:04,717 - Amazon Test -INFO - Test Passed
+2022-02-19 23:00:10,535 - Amazon Test -INFO - URL is opened
+2022-02-19 23:00:11,991 - Amazon Test -INFO - Entered username
+2022-02-19 23:00:12,620 - Amazon Test -INFO - clicked continue button
+2022-02-19 23:00:12,702 - Amazon Test -INFO - Entered Password
+2022-02-19 23:00:15,996 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 23:00:16,009 - Amazon Test -INFO - Logged into Amazon
+2022-02-19 23:04:08,324 - Amazon Test -INFO - URL is opened
+2022-02-19 23:04:09,589 - Amazon Test -INFO - Entered username
+2022-02-19 23:04:10,418 - Amazon Test -INFO - clicked continue button
+2022-02-19 23:04:10,486 - Amazon Test -INFO - Entered Password
+2022-02-19 23:04:10,566 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 23:04:14,948 - Amazon Test -INFO - Logged into Amazon
+2022-02-19 23:04:39,926 - Amazon Test -INFO - added 2 items to the cart
+2022-02-19 23:04:42,862 - Amazon Test -INFO - IN AMAZON CART
+2022-02-19 23:04:44,183 - Amazon Test -INFO - Test Passed
+2022-02-19 23:07:55,230 - Amazon Test -INFO - URL is opened
+2022-02-19 23:07:56,631 - Amazon Test -INFO - Entered username
+2022-02-19 23:07:57,620 - Amazon Test -INFO - clicked continue button
+2022-02-19 23:07:57,680 - Amazon Test -INFO - Entered Password
+2022-02-19 23:07:57,743 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 23:08:00,268 - Amazon Test -INFO - Logged into Amazon
+2022-02-19 23:08:25,177 - Amazon Test -INFO - added 2 items to the cart
+2022-02-19 23:08:28,192 - Amazon Test -INFO - IN AMAZON CART
+2022-02-19 23:08:29,777 - Amazon Test -INFO - Test Passed
+2022-02-19 23:23:39,651 - Amazon Test -INFO - URL is opened
+2022-02-19 23:23:42,032 - Amazon Test -INFO - Entered username
+2022-02-19 23:23:42,673 - Amazon Test -INFO - clicked continue button
+2022-02-19 23:23:42,733 - Amazon Test -INFO - Entered Password
+2022-02-19 23:23:42,800 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 23:23:46,769 - Amazon Test -INFO - Logged into Amazon
+2022-02-19 23:24:10,465 - Amazon Test -INFO - added 2 items to the cart
+2022-02-19 23:24:13,500 - Amazon Test -INFO - IN AMAZON CART
+2022-02-19 23:24:15,721 - Amazon Test -INFO - Test Passed
+2022-02-19 23:29:01,183 - Amazon Test -INFO - URL is opened
+2022-02-19 23:29:02,429 - Amazon Test -INFO - Entered username
+2022-02-19 23:29:02,960 - Amazon Test -INFO - clicked continue button
+2022-02-19 23:29:03,018 - Amazon Test -INFO - Entered Password
+2022-02-19 23:29:03,087 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 23:29:07,192 - Amazon Test -INFO - Logged into Amazon
+2022-02-19 23:29:09,799 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-19 23:29:15,091 - Amazon Test -INFO - Test Failed
+2022-02-19 23:31:25,104 - Amazon Test -INFO - URL is opened
+2022-02-19 23:31:26,591 - Amazon Test -INFO - Entered username
+2022-02-19 23:31:27,574 - Amazon Test -INFO - clicked continue button
+2022-02-19 23:31:27,643 - Amazon Test -INFO - Entered Password
+2022-02-19 23:31:27,710 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 23:31:32,268 - Amazon Test -INFO - Logged into Amazon
+2022-02-19 23:31:34,624 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-19 23:31:40,173 - Amazon Test -INFO - Test Failed
+2022-02-19 23:33:14,397 - Amazon Test -INFO - URL is opened
+2022-02-19 23:33:15,798 - Amazon Test -INFO - Entered username
+2022-02-19 23:33:16,450 - Amazon Test -INFO - clicked continue button
+2022-02-19 23:33:16,517 - Amazon Test -INFO - Entered Password
+2022-02-19 23:33:16,584 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 23:33:21,604 - Amazon Test -INFO - Logged into Amazon
+2022-02-19 23:33:24,352 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-19 23:33:29,694 - Amazon Test -INFO - Test Failed
+2022-02-19 23:34:19,181 - Amazon Test -INFO - URL is opened
+2022-02-19 23:34:20,337 - Amazon Test -INFO - Entered username
+2022-02-19 23:34:20,805 - Amazon Test -INFO - clicked continue button
+2022-02-19 23:34:20,874 - Amazon Test -INFO - Entered Password
+2022-02-19 23:34:20,942 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 23:34:24,721 - Amazon Test -INFO - Logged into Amazon
+2022-02-19 23:34:27,290 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-19 23:35:44,880 - Amazon Test -INFO - URL is opened
+2022-02-19 23:35:46,123 - Amazon Test -INFO - Entered username
+2022-02-19 23:35:46,896 - Amazon Test -INFO - clicked continue button
+2022-02-19 23:35:46,957 - Amazon Test -INFO - Entered Password
+2022-02-19 23:35:47,025 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 23:35:50,677 - Amazon Test -INFO - Logged into Amazon
+2022-02-19 23:35:52,847 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-19 23:35:58,106 - Amazon Test -INFO - Test Passed
+2022-02-19 23:39:53,313 - Amazon Test -INFO - URL is opened
+2022-02-19 23:39:54,622 - Amazon Test -INFO - Entered username
+2022-02-19 23:39:55,315 - Amazon Test -INFO - clicked continue button
+2022-02-19 23:39:55,391 - Amazon Test -INFO - Entered Password
+2022-02-19 23:39:55,458 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 23:39:59,295 - Amazon Test -INFO - Logged into Amazon
+2022-02-19 23:40:02,012 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-19 23:40:07,911 - Amazon Test -INFO - Test Passed
+2022-02-19 23:43:46,402 - Amazon Test -INFO - URL is opened
+2022-02-19 23:43:47,943 - Amazon Test -INFO - Entered username
+2022-02-19 23:43:48,729 - Amazon Test -INFO - clicked continue button
+2022-02-19 23:43:48,793 - Amazon Test -INFO - Entered Password
+2022-02-19 23:43:48,865 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 23:43:53,053 - Amazon Test -INFO - Logged into Amazon
+2022-02-19 23:43:55,561 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-19 23:45:11,653 - Amazon Test -INFO - URL is opened
+2022-02-19 23:45:12,834 - Amazon Test -INFO - Entered username
+2022-02-19 23:45:13,546 - Amazon Test -INFO - clicked continue button
+2022-02-19 23:45:13,707 - Amazon Test -INFO - Entered Password
+2022-02-19 23:45:14,028 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 23:45:17,011 - Amazon Test -INFO - Logged into Amazon
+2022-02-19 23:45:19,863 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-19 23:49:26,319 - Amazon Test -INFO - URL is opened
+2022-02-19 23:49:27,613 - Amazon Test -INFO - Entered username
+2022-02-19 23:49:28,292 - Amazon Test -INFO - clicked continue button
+2022-02-19 23:49:28,365 - Amazon Test -INFO - Entered Password
+2022-02-19 23:49:28,436 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 23:49:32,026 - Amazon Test -INFO - Logged into Amazon
+2022-02-19 23:49:34,847 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-19 23:50:14,387 - Amazon Test -INFO - URL is opened
+2022-02-19 23:50:15,177 - Amazon Test -INFO - URL is opened
+2022-02-19 23:50:16,012 - Amazon Test -INFO - Entered username
+2022-02-19 23:50:16,859 - Amazon Test -INFO - Entered username
+2022-02-19 23:50:17,152 - Amazon Test -INFO - clicked continue button
+2022-02-19 23:50:17,242 - Amazon Test -INFO - Entered Password
+2022-02-19 23:50:17,686 - Amazon Test -INFO - clicked continue button
+2022-02-19 23:50:17,754 - Amazon Test -INFO - Entered Password
+2022-02-19 23:50:17,848 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 23:50:20,806 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 23:50:20,847 - Amazon Test -INFO - Logged into Amazon
+2022-02-19 23:50:22,530 - Amazon Test -INFO - Logged into Amazon
+2022-02-19 23:50:23,482 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-19 23:50:25,294 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-19 23:53:48,425 - Amazon Test -INFO - URL is opened
+2022-02-19 23:53:50,171 - Amazon Test -INFO - Entered username
+2022-02-19 23:53:50,694 - Amazon Test -INFO - clicked continue button
+2022-02-19 23:53:50,819 - Amazon Test -INFO - Entered Password
+2022-02-19 23:53:50,883 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 23:53:54,801 - Amazon Test -INFO - Logged into Amazon
+2022-02-19 23:53:57,227 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-19 23:59:38,058 - Amazon Test -INFO - URL is opened
+2022-02-19 23:59:39,491 - Amazon Test -INFO - Entered username
+2022-02-19 23:59:40,056 - Amazon Test -INFO - clicked continue button
+2022-02-19 23:59:40,124 - Amazon Test -INFO - Entered Password
+2022-02-19 23:59:43,781 - Amazon Test -INFO - Clicked Submit button
+2022-02-19 23:59:43,791 - Amazon Test -INFO - Logged into Amazon
+2022-02-19 23:59:46,524 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 00:03:17,352 - Amazon Test -INFO - URL is opened
+2022-02-20 00:03:18,465 - Amazon Test -INFO - Entered username
+2022-02-20 00:03:19,236 - Amazon Test -INFO - clicked continue button
+2022-02-20 00:03:19,312 - Amazon Test -INFO - Entered Password
+2022-02-20 00:03:19,379 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 00:03:22,896 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 00:03:25,444 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 00:04:45,227 - Amazon Test -INFO - URL is opened
+2022-02-20 00:04:46,549 - Amazon Test -INFO - Entered username
+2022-02-20 00:04:47,279 - Amazon Test -INFO - clicked continue button
+2022-02-20 00:04:47,380 - Amazon Test -INFO - Entered Password
+2022-02-20 00:04:47,485 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 00:04:51,485 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 00:04:53,568 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 00:05:27,816 - Amazon Test -INFO - URL is opened
+2022-02-20 00:05:29,786 - Amazon Test -INFO - URL is opened
+2022-02-20 00:05:30,080 - Amazon Test -INFO - Entered username
+2022-02-20 00:05:31,250 - Amazon Test -INFO - clicked continue button
+2022-02-20 00:05:31,411 - Amazon Test -INFO - Entered Password
+2022-02-20 00:05:31,552 - Amazon Test -INFO - Entered username
+2022-02-20 00:05:31,568 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 00:05:32,573 - Amazon Test -INFO - clicked continue button
+2022-02-20 00:05:32,637 - Amazon Test -INFO - Entered Password
+2022-02-20 00:05:32,767 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 00:05:34,435 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 00:05:37,967 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 00:07:04,776 - Amazon Test -INFO - URL is opened
+2022-02-20 00:07:05,986 - Amazon Test -INFO - Entered username
+2022-02-20 00:07:06,754 - Amazon Test -INFO - clicked continue button
+2022-02-20 00:07:06,819 - Amazon Test -INFO - Entered Password
+2022-02-20 00:07:06,895 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 00:07:11,377 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 00:07:13,798 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 00:08:56,351 - Amazon Test -INFO - URL is opened
+2022-02-20 00:08:57,510 - Amazon Test -INFO - Entered username
+2022-02-20 00:08:58,333 - Amazon Test -INFO - clicked continue button
+2022-02-20 00:08:58,427 - Amazon Test -INFO - Entered Password
+2022-02-20 00:08:58,590 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 00:09:01,259 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 00:09:02,559 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 08:55:20,849 - Amazon Test -INFO - URL is opened
+2022-02-20 08:55:22,594 - Amazon Test -INFO - Entered username
+2022-02-20 08:55:23,531 - Amazon Test -INFO - clicked continue button
+2022-02-20 08:55:23,634 - Amazon Test -INFO - Entered Password
+2022-02-20 08:55:23,796 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 08:55:26,111 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 08:55:28,869 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 08:59:39,044 - Amazon Test -INFO - URL is opened
+2022-02-20 08:59:40,513 - Amazon Test -INFO - Entered username
+2022-02-20 08:59:41,302 - Amazon Test -INFO - clicked continue button
+2022-02-20 08:59:41,392 - Amazon Test -INFO - Entered Password
+2022-02-20 08:59:41,513 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 08:59:44,198 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 08:59:47,531 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 09:01:27,154 - Amazon Test -INFO - URL is opened
+2022-02-20 09:01:28,609 - Amazon Test -INFO - Entered username
+2022-02-20 09:01:29,477 - Amazon Test -INFO - clicked continue button
+2022-02-20 09:01:29,582 - Amazon Test -INFO - Entered Password
+2022-02-20 09:01:29,676 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 09:01:31,761 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 09:01:34,649 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 09:03:05,981 - Amazon Test -INFO - URL is opened
+2022-02-20 09:03:07,496 - Amazon Test -INFO - Entered username
+2022-02-20 09:03:08,393 - Amazon Test -INFO - clicked continue button
+2022-02-20 09:03:08,497 - Amazon Test -INFO - Entered Password
+2022-02-20 09:03:08,654 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 09:03:10,589 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 09:03:13,824 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 09:04:17,364 - Amazon Test -INFO - URL is opened
+2022-02-20 09:04:18,727 - Amazon Test -INFO - Entered username
+2022-02-20 09:04:19,503 - Amazon Test -INFO - clicked continue button
+2022-02-20 09:04:19,602 - Amazon Test -INFO - Entered Password
+2022-02-20 09:04:19,845 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 09:04:22,012 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 09:04:24,947 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 09:07:19,492 - Amazon Test -INFO - URL is opened
+2022-02-20 09:07:19,808 - Amazon Test -INFO - URL is opened
+2022-02-20 09:07:21,934 - Amazon Test -INFO - Entered username
+2022-02-20 09:07:21,948 - Amazon Test -INFO - Entered username
+2022-02-20 09:07:23,269 - Amazon Test -INFO - clicked continue button
+2022-02-20 09:07:23,334 - Amazon Test -INFO - clicked continue button
+2022-02-20 09:07:23,420 - Amazon Test -INFO - Entered Password
+2022-02-20 09:07:23,508 - Amazon Test -INFO - Entered Password
+2022-02-20 09:07:23,592 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 09:07:23,702 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 09:07:26,385 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 09:07:26,417 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 09:07:29,174 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 09:07:29,416 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 09:09:30,436 - Amazon Test -INFO - URL is opened
+2022-02-20 09:09:32,080 - Amazon Test -INFO - Entered username
+2022-02-20 09:09:32,820 - Amazon Test -INFO - clicked continue button
+2022-02-20 09:09:32,924 - Amazon Test -INFO - Entered Password
+2022-02-20 09:09:33,053 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 09:09:35,898 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 09:09:39,372 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 09:16:06,366 - Amazon Test -INFO - URL is opened
+2022-02-20 09:16:07,834 - Amazon Test -INFO - Entered username
+2022-02-20 09:16:08,698 - Amazon Test -INFO - clicked continue button
+2022-02-20 09:16:08,810 - Amazon Test -INFO - Entered Password
+2022-02-20 09:16:08,955 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 09:16:11,464 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 09:16:13,882 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 09:18:40,932 - Amazon Test -INFO - URL is opened
+2022-02-20 09:18:42,693 - Amazon Test -INFO - Entered username
+2022-02-20 09:18:43,680 - Amazon Test -INFO - clicked continue button
+2022-02-20 09:18:43,773 - Amazon Test -INFO - Entered Password
+2022-02-20 09:18:43,874 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 09:18:46,624 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 09:18:49,108 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 09:22:16,243 - Amazon Test -INFO - URL is opened
+2022-02-20 09:22:17,703 - Amazon Test -INFO - Entered username
+2022-02-20 09:22:18,466 - Amazon Test -INFO - clicked continue button
+2022-02-20 09:22:18,610 - Amazon Test -INFO - Entered Password
+2022-02-20 09:22:18,885 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 09:22:21,269 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 09:22:23,989 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 09:24:10,935 - Amazon Test -INFO - URL is opened
+2022-02-20 09:24:12,272 - Amazon Test -INFO - Entered username
+2022-02-20 09:24:13,199 - Amazon Test -INFO - clicked continue button
+2022-02-20 09:24:13,326 - Amazon Test -INFO - Entered Password
+2022-02-20 09:24:13,470 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 09:24:15,744 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 09:24:18,073 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 09:28:33,015 - Amazon Test -INFO - URL is opened
+2022-02-20 09:28:34,406 - Amazon Test -INFO - Entered username
+2022-02-20 09:28:35,223 - Amazon Test -INFO - clicked continue button
+2022-02-20 09:28:35,351 - Amazon Test -INFO - Entered Password
+2022-02-20 09:28:35,544 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 09:28:38,013 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 09:28:40,411 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 10:00:50,838 - Amazon Test -INFO - URL is opened
+2022-02-20 10:00:51,981 - Amazon Test -INFO - Entered username
+2022-02-20 10:00:52,537 - Amazon Test -INFO - clicked continue button
+2022-02-20 10:00:52,607 - Amazon Test -INFO - Entered Password
+2022-02-20 10:00:52,677 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 10:00:54,608 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 10:00:57,300 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 10:10:27,688 - Amazon Test -INFO - URL is opened
+2022-02-20 10:10:28,881 - Amazon Test -INFO - Entered username
+2022-02-20 10:10:29,494 - Amazon Test -INFO - clicked continue button
+2022-02-20 10:10:29,566 - Amazon Test -INFO - Entered Password
+2022-02-20 10:10:29,631 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 10:10:31,455 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 10:10:32,557 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 10:10:49,826 - Amazon Test -INFO - Test Passed
+2022-02-20 10:12:06,274 - Amazon Test -INFO - URL is opened
+2022-02-20 10:12:07,391 - Amazon Test -INFO - Entered username
+2022-02-20 10:12:08,222 - Amazon Test -INFO - clicked continue button
+2022-02-20 10:12:08,313 - Amazon Test -INFO - Entered Password
+2022-02-20 10:12:08,391 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 10:12:10,709 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 10:12:12,812 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 10:13:10,469 - Amazon Test -INFO - URL is opened
+2022-02-20 10:13:11,677 - Amazon Test -INFO - Entered username
+2022-02-20 10:13:12,290 - Amazon Test -INFO - clicked continue button
+2022-02-20 10:13:12,354 - Amazon Test -INFO - Entered Password
+2022-02-20 10:13:12,421 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 10:13:14,791 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 10:13:17,026 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 10:13:24,866 - Amazon Test -INFO - Test Passed
+2022-02-20 10:23:04,856 - Amazon Test -INFO - URL is opened
+2022-02-20 10:23:06,005 - Amazon Test -INFO - Entered username
+2022-02-20 10:23:06,872 - Amazon Test -INFO - clicked continue button
+2022-02-20 10:23:06,945 - Amazon Test -INFO - Entered Password
+2022-02-20 10:23:07,011 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 10:23:31,793 - Amazon Test -INFO - URL is opened
+2022-02-20 10:23:33,046 - Amazon Test -INFO - Entered username
+2022-02-20 10:23:33,816 - Amazon Test -INFO - clicked continue button
+2022-02-20 10:23:33,952 - Amazon Test -INFO - Entered Password
+2022-02-20 10:23:34,040 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 10:23:35,824 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 10:23:38,017 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 10:23:45,585 - Amazon Test -INFO - Test Passed
+2022-02-20 10:35:32,584 - Amazon Test -INFO - URL is opened
+2022-02-20 10:35:33,751 - Amazon Test -INFO - Entered username
+2022-02-20 10:35:34,349 - Amazon Test -INFO - clicked continue button
+2022-02-20 10:35:34,412 - Amazon Test -INFO - Entered Password
+2022-02-20 10:35:34,483 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 10:36:03,944 - Amazon Test -INFO - URL is opened
+2022-02-20 10:36:05,196 - Amazon Test -INFO - Entered username
+2022-02-20 10:36:05,817 - Amazon Test -INFO - clicked continue button
+2022-02-20 10:36:05,898 - Amazon Test -INFO - Entered Password
+2022-02-20 10:36:05,964 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 10:53:16,112 - Amazon Test -INFO - URL is opened
+2022-02-20 10:53:17,145 - Amazon Test -INFO - Entered username
+2022-02-20 10:53:17,834 - Amazon Test -INFO - clicked continue button
+2022-02-20 10:53:17,907 - Amazon Test -INFO - Entered Password
+2022-02-20 10:53:17,970 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 10:53:19,558 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 10:53:22,586 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 10:53:31,745 - Amazon Test -INFO - Test Failed
+2022-02-20 11:00:13,397 - Amazon Test -INFO - URL is opened
+2022-02-20 11:00:14,513 - Amazon Test -INFO - Entered username
+2022-02-20 11:00:15,224 - Amazon Test -INFO - clicked continue button
+2022-02-20 11:00:15,297 - Amazon Test -INFO - Entered Password
+2022-02-20 11:00:15,366 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 11:01:02,314 - Amazon Test -INFO - URL is opened
+2022-02-20 11:01:03,550 - Amazon Test -INFO - Entered username
+2022-02-20 11:01:04,375 - Amazon Test -INFO - clicked continue button
+2022-02-20 11:01:04,436 - Amazon Test -INFO - Entered Password
+2022-02-20 11:01:04,507 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 11:01:29,579 - Amazon Test -INFO - URL is opened
+2022-02-20 11:01:30,705 - Amazon Test -INFO - Entered username
+2022-02-20 11:01:31,667 - Amazon Test -INFO - clicked continue button
+2022-02-20 11:01:31,738 - Amazon Test -INFO - Entered Password
+2022-02-20 11:01:31,805 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 11:02:02,647 - Amazon Test -INFO - URL is opened
+2022-02-20 11:02:03,867 - Amazon Test -INFO - Entered username
+2022-02-20 11:02:04,374 - Amazon Test -INFO - clicked continue button
+2022-02-20 11:02:04,448 - Amazon Test -INFO - Entered Password
+2022-02-20 11:02:04,519 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 11:02:57,818 - Amazon Test -INFO - URL is opened
+2022-02-20 11:02:58,966 - Amazon Test -INFO - Entered username
+2022-02-20 11:02:59,702 - Amazon Test -INFO - clicked continue button
+2022-02-20 11:02:59,772 - Amazon Test -INFO - Entered Password
+2022-02-20 11:02:59,839 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 11:20:22,025 - Amazon Test -INFO - URL is opened
+2022-02-20 11:20:23,148 - Amazon Test -INFO - Entered username
+2022-02-20 11:20:23,901 - Amazon Test -INFO - clicked continue button
+2022-02-20 11:20:23,972 - Amazon Test -INFO - Entered Password
+2022-02-20 11:20:24,041 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 11:20:56,078 - Amazon Test -INFO - URL is opened
+2022-02-20 11:20:57,661 - Amazon Test -INFO - Entered username
+2022-02-20 11:20:58,408 - Amazon Test -INFO - clicked continue button
+2022-02-20 11:20:58,480 - Amazon Test -INFO - Entered Password
+2022-02-20 11:20:58,544 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 11:23:20,135 - Amazon Test -INFO - URL is opened
+2022-02-20 11:23:21,760 - Amazon Test -INFO - Entered username
+2022-02-20 11:23:22,565 - Amazon Test -INFO - clicked continue button
+2022-02-20 11:23:22,644 - Amazon Test -INFO - Entered Password
+2022-02-20 11:23:22,710 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 11:26:16,438 - Amazon Test -INFO - URL is opened
+2022-02-20 11:26:17,459 - Amazon Test -INFO - Entered username
+2022-02-20 11:26:18,277 - Amazon Test -INFO - clicked continue button
+2022-02-20 11:26:18,343 - Amazon Test -INFO - Entered Password
+2022-02-20 11:26:18,415 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 11:27:30,698 - Amazon Test -INFO - URL is opened
+2022-02-20 11:27:31,868 - Amazon Test -INFO - Entered username
+2022-02-20 11:27:32,783 - Amazon Test -INFO - clicked continue button
+2022-02-20 11:27:32,850 - Amazon Test -INFO - Entered Password
+2022-02-20 11:27:32,917 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 11:32:29,109 - Amazon Test -INFO - URL is opened
+2022-02-20 11:32:30,221 - Amazon Test -INFO - Entered username
+2022-02-20 11:32:30,830 - Amazon Test -INFO - clicked continue button
+2022-02-20 11:32:30,905 - Amazon Test -INFO - Entered Password
+2022-02-20 11:32:30,977 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 11:46:26,420 - Amazon Test -INFO - URL is opened
+2022-02-20 11:46:27,544 - Amazon Test -INFO - Entered username
+2022-02-20 11:46:28,044 - Amazon Test -INFO - clicked continue button
+2022-02-20 11:46:28,112 - Amazon Test -INFO - Entered Password
+2022-02-20 11:46:28,198 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 11:58:50,820 - Amazon Test -INFO - URL is opened
+2022-02-20 11:58:52,180 - Amazon Test -INFO - Entered username
+2022-02-20 11:58:53,068 - Amazon Test -INFO - clicked continue button
+2022-02-20 11:58:53,136 - Amazon Test -INFO - Entered Password
+2022-02-20 11:58:53,205 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 12:01:27,525 - Amazon Test -INFO - URL is opened
+2022-02-20 12:01:28,696 - Amazon Test -INFO - Entered username
+2022-02-20 12:01:29,273 - Amazon Test -INFO - clicked continue button
+2022-02-20 12:01:29,346 - Amazon Test -INFO - Entered Password
+2022-02-20 12:01:29,414 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 12:07:22,194 - Amazon Test -INFO - URL is opened
+2022-02-20 12:07:23,101 - Amazon Test -INFO - Entered username
+2022-02-20 12:07:23,568 - Amazon Test -INFO - clicked continue button
+2022-02-20 12:07:23,641 - Amazon Test -INFO - Entered Password
+2022-02-20 12:07:23,721 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 12:07:49,467 - Amazon Test -INFO - URL is opened
+2022-02-20 12:07:50,551 - Amazon Test -INFO - Entered username
+2022-02-20 12:07:51,376 - Amazon Test -INFO - clicked continue button
+2022-02-20 12:07:51,455 - Amazon Test -INFO - Entered Password
+2022-02-20 12:07:51,531 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 12:12:09,907 - Amazon Test -INFO - URL is opened
+2022-02-20 12:12:11,177 - Amazon Test -INFO - Entered username
+2022-02-20 12:12:11,729 - Amazon Test -INFO - clicked continue button
+2022-02-20 12:12:11,803 - Amazon Test -INFO - Entered Password
+2022-02-20 12:12:11,874 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 12:13:20,833 - Amazon Test -INFO - URL is opened
+2022-02-20 12:13:22,036 - Amazon Test -INFO - Entered username
+2022-02-20 12:13:22,864 - Amazon Test -INFO - clicked continue button
+2022-02-20 12:13:22,951 - Amazon Test -INFO - Entered Password
+2022-02-20 12:13:23,014 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 12:13:57,416 - Amazon Test -INFO - URL is opened
+2022-02-20 12:13:58,625 - Amazon Test -INFO - Entered username
+2022-02-20 12:13:59,468 - Amazon Test -INFO - clicked continue button
+2022-02-20 12:13:59,541 - Amazon Test -INFO - Entered Password
+2022-02-20 12:13:59,612 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 12:14:52,822 - Amazon Test -INFO - URL is opened
+2022-02-20 12:14:54,174 - Amazon Test -INFO - Entered username
+2022-02-20 12:14:54,668 - Amazon Test -INFO - clicked continue button
+2022-02-20 12:14:54,741 - Amazon Test -INFO - Entered Password
+2022-02-20 12:14:54,806 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 12:15:24,847 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 12:18:42,290 - Amazon Test -INFO - URL is opened
+2022-02-20 12:18:43,643 - Amazon Test -INFO - Entered username
+2022-02-20 12:18:44,114 - Amazon Test -INFO - clicked continue button
+2022-02-20 12:18:44,181 - Amazon Test -INFO - Entered Password
+2022-02-20 12:18:44,248 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 12:19:35,419 - Amazon Test -INFO - URL is opened
+2022-02-20 12:19:36,599 - Amazon Test -INFO - Entered username
+2022-02-20 12:19:37,486 - Amazon Test -INFO - clicked continue button
+2022-02-20 12:19:37,558 - Amazon Test -INFO - Entered Password
+2022-02-20 12:19:37,624 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 12:20:07,647 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 12:24:24,028 - Amazon Test -INFO - URL is opened
+2022-02-20 12:24:25,180 - Amazon Test -INFO - Entered username
+2022-02-20 12:24:25,653 - Amazon Test -INFO - clicked continue button
+2022-02-20 12:24:25,732 - Amazon Test -INFO - Entered Password
+2022-02-20 12:24:25,917 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 12:25:02,812 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 12:25:07,391 - Amazon Test -INFO - Test passed
+2022-02-20 12:48:05,226 - Amazon Test -INFO - URL is opened
+2022-02-20 12:48:06,815 - Amazon Test -INFO - Entered username
+2022-02-20 12:48:07,371 - Amazon Test -INFO - clicked continue button
+2022-02-20 12:48:07,442 - Amazon Test -INFO - Entered Password
+2022-02-20 12:48:07,519 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 12:48:37,585 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 12:51:16,961 - Amazon Test -INFO - URL is opened
+2022-02-20 12:51:18,316 - Amazon Test -INFO - Entered username
+2022-02-20 12:51:19,178 - Amazon Test -INFO - clicked continue button
+2022-02-20 12:51:19,247 - Amazon Test -INFO - Entered Password
+2022-02-20 12:51:19,325 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 12:51:49,350 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 12:51:54,222 - Amazon Test -INFO - Test passed
+2022-02-20 12:54:03,855 - Amazon Test -INFO - URL is opened
+2022-02-20 12:54:05,012 - Amazon Test -INFO - Entered username
+2022-02-20 12:54:05,767 - Amazon Test -INFO - clicked continue button
+2022-02-20 12:54:05,838 - Amazon Test -INFO - Entered Password
+2022-02-20 12:54:05,905 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 12:54:35,924 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 12:54:39,981 - Amazon Test -INFO - Test passed
+2022-02-20 12:57:17,138 - Amazon Test -INFO - URL is opened
+2022-02-20 12:57:18,364 - Amazon Test -INFO - Entered username
+2022-02-20 12:57:18,993 - Amazon Test -INFO - clicked continue button
+2022-02-20 12:57:19,073 - Amazon Test -INFO - Entered Password
+2022-02-20 12:57:19,141 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 12:57:49,162 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 12:57:53,867 - Amazon Test -INFO - Test failed
+2022-02-20 13:00:54,531 - Amazon Test -INFO - URL is opened
+2022-02-20 13:00:55,637 - Amazon Test -INFO - Entered username
+2022-02-20 13:00:56,208 - Amazon Test -INFO - clicked continue button
+2022-02-20 13:00:56,297 - Amazon Test -INFO - Entered Password
+2022-02-20 13:00:56,367 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 13:01:49,690 - Amazon Test -INFO - URL is opened
+2022-02-20 13:01:51,140 - Amazon Test -INFO - Entered username
+2022-02-20 13:01:52,010 - Amazon Test -INFO - clicked continue button
+2022-02-20 13:01:52,091 - Amazon Test -INFO - Entered Password
+2022-02-20 13:01:52,156 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 13:06:37,291 - Amazon Test -INFO - URL is opened
+2022-02-20 13:06:38,514 - Amazon Test -INFO - Entered username
+2022-02-20 13:06:39,322 - Amazon Test -INFO - clicked continue button
+2022-02-20 13:06:39,540 - Amazon Test -INFO - Entered Password
+2022-02-20 13:06:39,748 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 13:07:09,787 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 13:07:14,868 - Amazon Test -INFO - Test passed
+2022-02-20 13:12:55,506 - Amazon Test -INFO - URL is opened
+2022-02-20 13:12:56,557 - Amazon Test -INFO - Entered username
+2022-02-20 13:12:57,425 - Amazon Test -INFO - clicked continue button
+2022-02-20 13:12:57,493 - Amazon Test -INFO - Entered Password
+2022-02-20 13:12:57,569 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 13:13:27,591 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 13:13:31,897 - Amazon Test -INFO - Test passed
+2022-02-20 13:19:57,738 - Amazon Test -INFO - URL is opened
+2022-02-20 13:19:58,926 - Amazon Test -INFO - Entered username
+2022-02-20 13:19:59,515 - Amazon Test -INFO - clicked continue button
+2022-02-20 13:19:59,582 - Amazon Test -INFO - Entered Password
+2022-02-20 13:19:59,667 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 13:20:29,688 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 13:20:34,927 - Amazon Test -INFO - Test passed
+2022-02-20 13:25:32,045 - Amazon Test -INFO - URL is opened
+2022-02-20 13:25:33,369 - Amazon Test -INFO - Entered username
+2022-02-20 13:25:34,153 - Amazon Test -INFO - clicked continue button
+2022-02-20 13:25:34,221 - Amazon Test -INFO - Entered Password
+2022-02-20 13:25:34,291 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 13:26:04,340 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 13:26:09,532 - Amazon Test -INFO - Test failed
+2022-02-20 13:27:29,020 - Amazon Test -INFO - URL is opened
+2022-02-20 13:27:30,294 - Amazon Test -INFO - Entered username
+2022-02-20 13:27:31,042 - Amazon Test -INFO - clicked continue button
+2022-02-20 13:27:31,260 - Amazon Test -INFO - Entered Password
+2022-02-20 13:27:31,324 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 13:28:01,348 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 13:28:08,291 - Amazon Test -INFO - Test failed
+2022-02-20 13:31:58,824 - Amazon Test -INFO - URL is opened
+2022-02-20 13:32:00,369 - Amazon Test -INFO - Entered username
+2022-02-20 13:32:01,230 - Amazon Test -INFO - clicked continue button
+2022-02-20 13:32:01,315 - Amazon Test -INFO - Entered Password
+2022-02-20 13:32:01,497 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 13:32:31,525 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 13:34:45,446 - Amazon Test -INFO - URL is opened
+2022-02-20 13:34:46,596 - Amazon Test -INFO - Entered username
+2022-02-20 13:34:47,355 - Amazon Test -INFO - clicked continue button
+2022-02-20 13:34:47,423 - Amazon Test -INFO - Entered Password
+2022-02-20 13:34:47,487 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 13:35:17,525 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 13:36:17,710 - Amazon Test -INFO - URL is opened
+2022-02-20 13:36:18,878 - Amazon Test -INFO - Entered username
+2022-02-20 13:36:19,665 - Amazon Test -INFO - clicked continue button
+2022-02-20 13:36:19,736 - Amazon Test -INFO - Entered Password
+2022-02-20 13:36:19,803 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 13:36:49,830 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 13:39:38,582 - Amazon Test -INFO - URL is opened
+2022-02-20 13:39:39,717 - Amazon Test -INFO - URL is opened
+2022-02-20 13:39:40,621 - Amazon Test -INFO - Entered username
+2022-02-20 13:39:41,466 - Amazon Test -INFO - clicked continue button
+2022-02-20 13:39:41,527 - Amazon Test -INFO - Entered username
+2022-02-20 13:39:41,601 - Amazon Test -INFO - Entered Password
+2022-02-20 13:39:41,747 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 13:39:42,185 - Amazon Test -INFO - clicked continue button
+2022-02-20 13:39:42,257 - Amazon Test -INFO - Entered Password
+2022-02-20 13:39:42,329 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 13:40:11,775 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 13:40:12,369 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 13:40:17,507 - Amazon Test -INFO - Test passed
+2022-02-20 13:40:19,677 - Amazon Test -INFO - Test passed
+2022-02-20 13:42:59,354 - Amazon Test -INFO - URL is opened
+2022-02-20 13:43:00,680 - Amazon Test -INFO - Entered username
+2022-02-20 13:43:01,389 - Amazon Test -INFO - clicked continue button
+2022-02-20 13:43:01,457 - Amazon Test -INFO - Entered Password
+2022-02-20 13:43:01,524 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 13:43:31,547 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 13:43:37,236 - Amazon Test -INFO - Test passed
+2022-02-20 13:45:41,042 - Amazon Test -INFO - URL is opened
+2022-02-20 13:45:42,341 - Amazon Test -INFO - Entered username
+2022-02-20 13:45:42,960 - Amazon Test -INFO - clicked continue button
+2022-02-20 13:45:43,052 - Amazon Test -INFO - Entered Password
+2022-02-20 13:45:43,145 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 13:46:13,275 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 13:46:18,829 - Amazon Test -INFO - Test failed
+2022-02-20 13:47:59,245 - Amazon Test -INFO - URL is opened
+2022-02-20 13:48:00,422 - Amazon Test -INFO - Entered username
+2022-02-20 13:48:01,367 - Amazon Test -INFO - clicked continue button
+2022-02-20 13:48:01,450 - Amazon Test -INFO - Entered Password
+2022-02-20 13:48:01,516 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 13:48:31,551 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 13:48:40,658 - Amazon Test -INFO - Test failed
+2022-02-20 13:49:56,831 - Amazon Test -INFO - URL is opened
+2022-02-20 13:49:58,111 - Amazon Test -INFO - Entered username
+2022-02-20 13:49:58,993 - Amazon Test -INFO - clicked continue button
+2022-02-20 13:49:59,062 - Amazon Test -INFO - Entered Password
+2022-02-20 13:49:59,128 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 13:50:29,162 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 13:50:36,918 - Amazon Test -INFO - Test failed
+2022-02-20 13:55:34,781 - Amazon Test -INFO - URL is opened
+2022-02-20 13:55:35,982 - Amazon Test -INFO - Entered username
+2022-02-20 13:55:36,823 - Amazon Test -INFO - clicked continue button
+2022-02-20 13:55:36,897 - Amazon Test -INFO - Entered Password
+2022-02-20 13:55:36,970 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 13:56:07,006 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 13:57:16,274 - Amazon Test -INFO - URL is opened
+2022-02-20 13:57:17,809 - Amazon Test -INFO - Entered username
+2022-02-20 13:57:18,498 - Amazon Test -INFO - clicked continue button
+2022-02-20 13:57:18,568 - Amazon Test -INFO - Entered Password
+2022-02-20 13:57:18,644 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 13:57:48,677 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 14:01:49,016 - Amazon Test -INFO - URL is opened
+2022-02-20 14:01:50,267 - Amazon Test -INFO - Entered username
+2022-02-20 14:01:50,729 - Amazon Test -INFO - clicked continue button
+2022-02-20 14:01:50,794 - Amazon Test -INFO - Entered Password
+2022-02-20 14:01:50,862 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 14:02:20,891 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 14:04:37,844 - Amazon Test -INFO - URL is opened
+2022-02-20 14:04:39,057 - Amazon Test -INFO - Entered username
+2022-02-20 14:04:39,761 - Amazon Test -INFO - clicked continue button
+2022-02-20 14:04:39,833 - Amazon Test -INFO - Entered Password
+2022-02-20 14:04:39,901 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 14:05:10,036 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 14:05:17,871 - Amazon Test -INFO - Test passed
+2022-02-20 14:07:36,013 - Amazon Test -INFO - URL is opened
+2022-02-20 14:07:37,423 - Amazon Test -INFO - Entered username
+2022-02-20 14:07:38,185 - Amazon Test -INFO - clicked continue button
+2022-02-20 14:07:38,332 - Amazon Test -INFO - Entered Password
+2022-02-20 14:07:38,410 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 14:08:08,440 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 14:08:16,122 - Amazon Test -INFO - Test passed
+2022-02-20 14:10:07,173 - Amazon Test -INFO - URL is opened
+2022-02-20 14:10:08,630 - Amazon Test -INFO - Entered username
+2022-02-20 14:10:09,170 - Amazon Test -INFO - clicked continue button
+2022-02-20 14:10:09,248 - Amazon Test -INFO - Entered Password
+2022-02-20 14:10:09,325 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 14:10:39,352 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 14:10:44,847 - Amazon Test -INFO - Test passed
+2022-02-20 14:20:02,754 - Amazon Test -INFO - URL is opened
+2022-02-20 14:20:03,980 - Amazon Test -INFO - Entered username
+2022-02-20 14:20:04,692 - Amazon Test -INFO - clicked continue button
+2022-02-20 14:20:04,771 - Amazon Test -INFO - Entered Password
+2022-02-20 14:20:04,842 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 14:20:07,060 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 14:21:15,184 - Amazon Test -INFO - URL is opened
+2022-02-20 14:21:16,527 - Amazon Test -INFO - Entered username
+2022-02-20 14:21:17,392 - Amazon Test -INFO - clicked continue button
+2022-02-20 14:21:17,460 - Amazon Test -INFO - Entered Password
+2022-02-20 14:21:17,533 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 14:21:20,047 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 14:21:54,091 - Amazon Test -INFO - URL is opened
+2022-02-20 14:21:55,265 - Amazon Test -INFO - Entered username
+2022-02-20 14:21:55,708 - Amazon Test -INFO - clicked continue button
+2022-02-20 14:21:55,770 - Amazon Test -INFO - Entered Password
+2022-02-20 14:21:55,842 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 14:21:58,178 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 14:23:43,788 - Amazon Test -INFO - URL is opened
+2022-02-20 14:23:44,990 - Amazon Test -INFO - Entered username
+2022-02-20 14:23:45,505 - Amazon Test -INFO - clicked continue button
+2022-02-20 14:23:45,574 - Amazon Test -INFO - Entered Password
+2022-02-20 14:23:45,771 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 14:23:47,784 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 14:30:58,050 - Amazon Test -INFO - URL is opened
+2022-02-20 14:30:59,468 - Amazon Test -INFO - Entered username
+2022-02-20 14:31:00,340 - Amazon Test -INFO - clicked continue button
+2022-02-20 14:31:00,429 - Amazon Test -INFO - Entered Password
+2022-02-20 14:31:00,498 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 14:31:02,689 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 14:31:44,823 - Amazon Test -INFO - URL is opened
+2022-02-20 14:31:45,956 - Amazon Test -INFO - Entered username
+2022-02-20 14:31:46,461 - Amazon Test -INFO - clicked continue button
+2022-02-20 14:31:46,559 - Amazon Test -INFO - Entered Password
+2022-02-20 14:31:46,733 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 14:31:49,137 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 14:32:11,328 - Amazon Test -INFO - added 2 items to the cart
+2022-02-20 14:32:14,068 - Amazon Test -INFO - IN AMAZON CART
+2022-02-20 14:32:16,287 - Amazon Test -INFO - Test Passed
+2022-02-20 14:33:11,775 - Amazon Test -INFO - URL is opened
+2022-02-20 14:33:13,034 - Amazon Test -INFO - Entered username
+2022-02-20 14:33:13,518 - Amazon Test -INFO - clicked continue button
+2022-02-20 14:33:13,585 - Amazon Test -INFO - Entered Password
+2022-02-20 14:33:13,657 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 14:33:15,457 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 14:33:18,246 - Amazon Test -INFO - IN AMAZON CART PAGE
+2022-02-20 14:33:25,779 - Amazon Test -INFO - Test Passed
+2022-02-20 14:34:08,260 - Amazon Test -INFO - URL is opened
+2022-02-20 14:34:09,538 - Amazon Test -INFO - Entered username
+2022-02-20 14:34:10,142 - Amazon Test -INFO - clicked continue button
+2022-02-20 14:34:10,214 - Amazon Test -INFO - Entered Password
+2022-02-20 14:34:10,284 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 14:34:11,999 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 14:34:16,951 - Amazon Test -INFO - Test passed
+2022-02-20 14:44:04,252 - Amazon Test -INFO - URL is opened
+2022-02-20 14:44:05,741 - Amazon Test -INFO - Entered username
+2022-02-20 14:44:06,513 - Amazon Test -INFO - clicked continue button
+2022-02-20 14:44:06,597 - Amazon Test -INFO - Entered Password
+2022-02-20 14:44:06,674 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 14:44:09,309 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 14:48:30,334 - Amazon Test -INFO - URL is opened
+2022-02-20 14:48:30,896 - Amazon Test -INFO - URL is opened
+2022-02-20 14:48:32,185 - Amazon Test -INFO - Entered username
+2022-02-20 14:48:32,522 - Amazon Test -INFO - Entered username
+2022-02-20 14:48:32,971 - Amazon Test -INFO - clicked continue button
+2022-02-20 14:48:33,075 - Amazon Test -INFO - Entered Password
+2022-02-20 14:48:33,270 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 14:48:33,448 - Amazon Test -INFO - clicked continue button
+2022-02-20 14:48:33,526 - Amazon Test -INFO - Entered Password
+2022-02-20 14:48:33,609 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 14:48:35,139 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 14:48:36,429 - Amazon Test -INFO - Logged into Amazon
+2022-02-20 14:48:40,018 - Amazon Test -INFO - Test passed
+2022-02-20 14:48:42,362 - Amazon Test -INFO - Test passed
+2022-02-20 14:50:56,036 - Amazon Test -INFO - URL is opened
+2022-02-20 14:50:57,197 - Amazon Test -INFO - Entered username
+2022-02-20 14:50:57,998 - Amazon Test -INFO - clicked continue button
+2022-02-20 14:50:58,065 - Amazon Test -INFO - Entered Password
+2022-02-20 14:50:58,133 - Amazon Test -INFO - Clicked Submit button
+2022-02-20 14:50:59,974 - Amazon Test -INFO - Logged into Amazon
