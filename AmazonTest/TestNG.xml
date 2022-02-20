@@ -9,7 +9,7 @@
 		<parameter name="browser" value="chrome" />
 
 		<classes>
-			<class name="amazon.TestCases.TC_AmazonMoveToBasket" />
+			<class name="amazon.TestCases.TC_AmazonSearch" />
 			
 		</classes>
 

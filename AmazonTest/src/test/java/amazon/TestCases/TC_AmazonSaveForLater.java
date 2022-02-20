@@ -98,25 +98,15 @@ public class TC_AmazonSaveForLater extends BaseClass {
 		
 		ArrayList<String> savedforlaterhref = (ArrayList<String>) saveforlateritems.stream().map(element -> element.getAttribute("data-asin")).collect(Collectors.toList());
 		
-		System.out.println(savedforlaterhref.size());
-		System.out.println(saveforlateritems);
-		System.out.println(saveforlateritems.size());
-		System.out.println(savedforlaterhref);
-		
 		ArrayList<String> saveforlateritemsId = new ArrayList<String>();
 		
 		
 		
 		for(int i=0;i<saveforlateritems.size();i++)
 		{
-			//WebElement ele = wait.until(ExpectedConditions.presenceOfElementLocated((By) saveforlateritems.get(i)));
-			
 			saveforlateritemsId.add((driver.findElements(By.xpath(xpathSaveForLate))).get(i).getAttribute("data-asin"));
-			//saveforlateritemsId.add((wait.until(ExpectedConditions.presenceOfElementLocated((By.xpath( saveforlateritems.get(i)))).getAttribute("data-asin"));		
 			
 		}
-		System.out.println(saveforlateritemsId);
-		System.out.println(saveforlateritemsId.size());
 		return savedforlaterhref;
 		
 		
