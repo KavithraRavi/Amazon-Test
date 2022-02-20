@@ -26,7 +26,7 @@
       <span class="top-banner-title-font">Test results</span>
       <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
       <br/>
-      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+      <span class="top-banner-font-1">1 suite</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -40,7 +40,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" panel-name="suite-Amazon_Test" class="navigator-link">
-              <span class="suite-name border-failed">Amazon Test</span>
+              <span class="suite-name border-passed">Amazon Test</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -51,7 +51,7 @@
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-Amazon_Test" class="navigator-link ">
-                    <span>C:\eclipse workspace\AmazonTest\TestNG.xml</span>
+                    <span>C:\Users\Dhyaan\git\Amazon-Test\AmazonTest\TestNG.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -93,21 +93,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">1 method, 1 failed,   </span>
+                    <span class="method-stats">1 method,   1 passed</span>
                   </li>
                   <li>
-                    <span class="method-list-title failed">Failed methods</span>
-                    <span class="show-or-hide-methods failed">
-                      <a href="#" panel-name="suite-Amazon_Test" class="hide-methods failed suite-Amazon_Test"> (hide)</a> <!-- hide-methods failed suite-Amazon_Test -->
-                      <a href="#" panel-name="suite-Amazon_Test" class="show-methods failed suite-Amazon_Test"> (show)</a> <!-- show-methods failed suite-Amazon_Test -->
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Amazon_Test" class="hide-methods passed suite-Amazon_Test"> (hide)</a> <!-- hide-methods passed suite-Amazon_Test -->
+                      <a href="#" panel-name="suite-Amazon_Test" class="show-methods passed suite-Amazon_Test"> (show)</a> <!-- show-methods passed suite-Amazon_Test -->
                     </span>
-                    <div class="method-list-content failed suite-Amazon_Test">
+                    <div class="method-list-content passed suite-Amazon_Test">
                       <span>
-                        <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Amazon_Test" title="amazon.TestCases.TC_AmazonMoveToBasket" class="method navigator-link" hash-for-method="AmazonMoveToBasket">AmazonMoveToBasket</a> <!-- method navigator-link -->
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Amazon_Test" title="amazon.TestCases.TC_AmazonSearch" class="method navigator-link" hash-for-method="AmazonSearch">AmazonSearch</a> <!-- method navigator-link -->
                       </span>
                       <br/>
-                    </div> <!-- method-list-content failed suite-Amazon_Test -->
+                    </div> <!-- method-list-content passed suite-Amazon_Test -->
                   </li>
                 </ul>
               </div> <!-- suite-section-content -->
@@ -119,38 +119,25 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Amazon_Test" class="panel Amazon_Test">
-          <div class="suite-Amazon_Test-class-failed">
+          <div class="suite-Amazon_Test-class-passed">
             <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
-              <span class="class-name">amazon.TestCases.TC_AmazonMoveToBasket</span>
+              <img src="passed.png"/>
+              <span class="class-name">amazon.TestCases.TC_AmazonSearch</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="AmazonMoveToBasket">
-                  </a> <!-- AmazonMoveToBasket -->
-                  <span class="method-name">AmazonMoveToBasket</span>
-                  <div class="stack-trace">java.io.FileNotFoundException: C:\eclipse workspace\AmazonTest\screenshots\logintest.png (The system cannot find the path specified)
-	at java.base/java.io.FileOutputStream.open0(Native Method)
-	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
-	at java.base/java.io.FileOutputStream.&lt;init&gt;(FileOutputStream.java:235)
-	at com.google.common.io.Files$FileByteSink.openStream(Files.java:196)
-	at com.google.common.io.Files$FileByteSink.openStream(Files.java:184)
-	at com.google.common.io.ByteSource.copyTo(ByteSource.java:279)
-	at com.google.common.io.Files.copy(Files.java:329)
-	at amazon.TestCases.BaseClass.captureScreen(BaseClass.java:66)
-	at amazon.TestCases.TC_AmazonMoveToBasket.AmazonMoveToBasket(TC_AmazonMoveToBasket.java:59)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 27 stack frames
-</div> <!-- stack-trace -->
+                  <a name="AmazonSearch">
+                  </a> <!-- AmazonSearch -->
+                  <span class="method-name">AmazonSearch</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Amazon_Test-class-failed -->
+          </div> <!-- suite-Amazon_Test-class-passed -->
         </div> <!-- panel Amazon_Test -->
         <div panel-name="test-xml-Amazon_Test" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\eclipse workspace\AmazonTest\TestNG.xml</span>
+            <span class="header-content">C:\Users\Dhyaan\git\Amazon-Test\AmazonTest\TestNG.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -160,7 +147,7 @@
   &lt;test thread-count=&quot;5&quot; name=&quot;Amazon Test&quot;&gt;
     &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;amazon.TestCases.TC_AmazonMoveToBasket&quot;/&gt;
+      &lt;class name=&quot;amazon.TestCases.TC_AmazonSearch&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Amazon Test --&gt;
 &lt;/suite&gt; &lt;!-- Amazon Test --&gt;
@@ -202,14 +189,14 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'AmazonMoveToBasket')
-data.setCell(0, 2, 'amazon.TestCases.TC_AmazonMoveToBasket')
-data.setCell(0, 3, 12092);
+data.setCell(0, 1, 'AmazonSearch')
+data.setCell(0, 2, 'amazon.TestCases.TC_AmazonSearch')
+data.setCell(0, 3, 37493);
 window.suiteTableData['Amazon_Test']= { tableData: data, tableDiv: 'times-div-Amazon_Test'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 12 seconds</span>
+              <span class="suite-total-time">Total running time: 37 seconds</span>
               <div id="times-div-Amazon_Test">
               </div> <!-- times-div-Amazon_Test -->
             </div> <!-- times-div -->
@@ -235,20 +222,18 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">amazon.TestCases.TC_AmazonMoveToBasket</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">amazon.TestCases.TC_AmazonSearch</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">setUp(chrome)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">AmazonMoveToBasket</span>
-                <span class="method-start">2179 ms</span>
+                <span class="method-name">AmazonSearch</span>
+                <span class="method-start">2270 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">14276 ms</span>
+                <span class="method-start">39788 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
