@@ -4,13 +4,13 @@
   <test thread-count="5" name="Amazon Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="amazon.TestCases.TC_AmazonMoveToBasket">
+      <class name="amazon.TestCases.TC_AmazonSearch">
         <methods>
-          <include name="AmazonMoveToBasket"/>
           <include name="tearDown"/>
           <include name="setUp"/>
+          <include name="AmazonSearch"/>
         </methods>
-      </class> <!-- amazon.TestCases.TC_AmazonMoveToBasket -->
+      </class> <!-- amazon.TestCases.TC_AmazonSearch -->
     </classes>
   </test> <!-- Amazon Test(failed) -->
 </suite> <!-- Failed suite [Amazon Test] -->
